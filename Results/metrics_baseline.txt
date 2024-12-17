@@ -2,6 +2,9 @@ Total FLOPs: 1,436,459,692,195,840
 Total Time: 6716.01 seconds
 Average FLOPs per question: 11,222,341,345,280.00
 Average Time per question: 52.47 seconds
+Final accuracy: 10.16%
+Total questions processed: 128
+Total correct answers: 13
 
 ==================================================
 Question 0 Summary:
