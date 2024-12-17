@@ -1,0 +1,7 @@
+temperature: 1.0 # sample temperature
+max_step_tokens: 96
+max_tokens: 384
+select_method: "softmax"
+softmax_temperature: 0.2 # temperature in the softmax
+store_path: ./exp_results/rebase_16/ # dir for storing the results
+width: 6 # sample N=6 solutions
