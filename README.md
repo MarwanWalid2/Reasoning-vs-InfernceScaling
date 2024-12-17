@@ -8,9 +8,22 @@ This repository contains code to test reasoning capabilities using the Quiet Sta
 pip install -r requirements.txt
 ```
 
-The evaluation was performed on 128 questions from the GSM8K dataset. 
+# Configuration Settings
 
-For rebase we conducted different experiments with varying width sizes of the Rebase tree: 3, 6, and 16 (16 was the original width size from the paper).
+## General Configuration
+| Parameter | Value |
+|-----------|-------|
+| Temperature | 1.0 |
+| Max Tokens | 384 |
+| Random Seed | 42 |
+
+## REBASE Configuration
+| Parameter | Value |
+|-----------|-------|
+| Softmax Temperature | 0.2 |
+| Tree Width Options | 3, 6, 16 |
+
+Note: Random seed 42 was maintained from the original QuietSTaR implementation to ensure comparable results.
 
 ## Repository Contents
 The repository includes:
@@ -28,6 +41,11 @@ The repository includes:
 
 # Results folder
 The results contain results for basline Mistral7b model, quietstar, rebase with 3,6,and 16 width tree
+
+The evaluation was performed on 128 questions from the GSM8K dataset. 
+
+For rebase we conducted different experiments with varying width sizes of the Rebase tree: 3, 6, and 16 (16 was the original width size from the paper).
+
 
 # Efficiency Metrics & Rankings
 
