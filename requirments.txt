@@ -6,3 +6,9 @@ psutil
 tqdm
 numpy
 typing-extensions
+flash_attn
+wandb
+accelerate
+termcolor
+fsspec
+reportlab

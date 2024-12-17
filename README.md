@@ -9,11 +9,13 @@ This repository contains code to test reasoning capabilities using the Quiet Sta
     - Inference time
     - FLOPS per inference
 - `quietstar.py`: Same metrics for Quiet Star model
+    - Note: To run quietstar you need to have the custom modeling_mistral and config files in the same directory as the evaluation script
 - `rebase.py`: Same metrics using Rebase for inference optimization
     - Note: To run rebase.py, modify the hyperparameters in rebase.yaml first
 
-# Install required libraries
+# To install required libraries
 ```
 pip install -r requirements.txt
 ```
+
 
