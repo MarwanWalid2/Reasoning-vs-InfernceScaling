@@ -3,6 +3,8 @@ This repository contains code to test reasoning capabilities using the Quiet Sta
 - 1 A100 GPU
 - 8 CPUs
 
+The main purpose of this was to implemnt infernce scaling into a reasoning model (`quietstar eval/quiet-rebase.py`), but ended up producing worse results than the base model.  
+
 # To install required libraries
 ```
 pip install -r requirements.txt
