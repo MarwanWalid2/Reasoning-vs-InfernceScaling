@@ -1,0 +1,9 @@
+
+=== Final Summary ===
+Total Questions: 128
+Total Correct: 12
+Accuracy: 9.38%
+Total FLOPs: 544,421,865,062,400
+Total Time: 18389.05 seconds
+Average FLOPs per Question: 4,253,295,820,800.00
+Average Time per Question: 143.66 seconds

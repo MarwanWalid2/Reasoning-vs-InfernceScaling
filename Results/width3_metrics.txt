@@ -1,0 +1,11 @@
+=== GSM8K Evaluation Metrics ===
+
+
+=== Final Summary ===
+Total Questions: 128
+Total Correct: 14
+Accuracy: 10.94%
+Total FLOPs: 300,396,010,536,960
+Total Time: 1083.85 seconds
+Average FLOPs per Question: 2,346,843,832,320.00
+Average Time per Question: 8.47 seconds

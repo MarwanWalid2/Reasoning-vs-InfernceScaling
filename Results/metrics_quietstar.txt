@@ -1,0 +1,6172 @@
+
+Total FLOPs: 1,629,210,738,688,000
+Total Time: 70995.86 seconds
+Average FLOPs per question: 12,728,208,896,000.00
+Average Time per question: 554.66 seconds
+
+==================================================
+Question 0 Summary:
+True Answer: 109
+
+Vote Progression:
+Vote 1:
+  Answer: 162
+  FLOPs: 3,029,666,365,440
+  Time: 137.86s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 10
+  FLOPs: 2,027,428,249,600
+  Time: 79.70s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 88
+  FLOPs: 3,029,666,365,440
+  Time: 133.71s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 17
+  FLOPs: 3,029,666,365,440
+  Time: 134.38s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 29
+  FLOPs: 986,936,770,560
+  Time: 34.70s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 6
+  FLOPs: 3,029,666,365,440
+  Time: 134.75s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,133,030,481,920
+Total Time: 655.13s
+Final Question Accuracy: 0.00%
+Vote Distribution: {162: 1, 10: 1, 88: 1, 17: 1, 29: 1, 6: 1}
+
+==================================================
+Question 1 Summary:
+True Answer: 89
+
+Vote Progression:
+Vote 1:
+  Answer: 28
+  FLOPs: 2,058,030,940,160
+  Time: 90.04s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 20
+  FLOPs: 3,029,666,365,440
+  Time: 155.53s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 161
+  FLOPs: 2,012,126,904,320
+  Time: 87.44s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 69
+  FLOPs: 2,394,660,536,320
+  Time: 111.69s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 19
+  FLOPs: 3,029,666,365,440
+  Time: 155.65s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 40
+  FLOPs: 3,029,666,365,440
+  Time: 154.84s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,553,817,477,120
+Total Time: 755.23s
+Final Question Accuracy: 0.00%
+Vote Distribution: {28: 1, 20: 1, 161: 1, 69: 1, 19: 1, 40: 1}
+
+==================================================
+Question 2 Summary:
+True Answer: 13
+
+Vote Progression:
+Vote 1:
+  Answer: 10
+  FLOPs: 1,889,716,142,080
+  Time: 71.33s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 15
+  FLOPs: 1,247,059,640,320
+  Time: 45.46s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 136.69s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 13
+  FLOPs: 1,094,046,187,520
+  Time: 39.28s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 6
+  FLOPs: 2,976,111,656,960
+  Time: 130.70s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 11
+  FLOPs: 1,048,142,151,680
+  Time: 36.34s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 11,284,742,144,000
+Total Time: 459.93s
+Final Question Accuracy: 0.00%
+Vote Distribution: {10: 1, 15: 1, 2: 1, 13: 1, 6: 1, 11: 1}
+
+==================================================
+Question 3 Summary:
+True Answer: 5
+
+Vote Progression:
+Vote 1:
+  Answer: 10
+  FLOPs: 3,029,666,365,440
+  Time: 142.81s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 4
+  FLOPs: 2,976,111,656,960
+  Time: 139.02s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 5
+  FLOPs: 1,614,291,927,040
+  Time: 62.91s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 10
+  FLOPs: 3,029,666,365,440
+  Time: 143.39s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 2
+  FLOPs: 2,976,111,656,960
+  Time: 139.09s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 10
+  FLOPs: 3,029,666,365,440
+  Time: 141.96s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,655,514,337,280
+Total Time: 769.22s
+Final Question Accuracy: 0.00%
+Vote Distribution: {10: 3, 4: 1, 5: 1, 2: 1}
+
+==================================================
+Question 4 Summary:
+True Answer: 25
+
+Vote Progression:
+Vote 1:
+  Answer: 25
+  FLOPs: 994,587,443,200
+  Time: 37.44s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 20
+  FLOPs: 772,717,936,640
+  Time: 28.58s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 25
+  FLOPs: 1,086,395,514,880
+  Time: 41.56s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 1298
+  FLOPs: 2,853,700,894,720
+  Time: 137.74s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 25
+  FLOPs: 1,055,792,824,320
+  Time: 40.02s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 9
+  FLOPs: 3,029,666,365,440
+  Time: 149.88s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 9,792,860,979,200
+Total Time: 435.81s
+Final Question Accuracy: 20.00%
+Vote Distribution: {25: 3, 20: 1, 1298: 1, 9: 1}
+
+==================================================
+Question 5 Summary:
+True Answer: 452
+
+Vote Progression:
+Vote 1:
+  Answer: 8
+  FLOPs: 2,562,975,334,400
+  Time: 122.93s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 10
+  FLOPs: 2,616,530,042,880
+  Time: 126.93s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 407
+  FLOPs: 2,440,564,572,160
+  Time: 115.12s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 618
+  FLOPs: 2,417,612,554,240
+  Time: 113.45s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 927
+  FLOPs: 2,991,413,002,240
+  Time: 152.95s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 8
+  FLOPs: 3,029,666,365,440
+  Time: 155.90s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,058,761,871,360
+Total Time: 787.33s
+Final Question Accuracy: 16.67%
+Vote Distribution: {8: 2, 10: 1, 407: 1, 618: 1, 927: 1}
+
+==================================================
+Question 6 Summary:
+True Answer: 43
+
+Vote Progression:
+Vote 1:
+  Answer: 37
+  FLOPs: 1,323,566,366,720
+  Time: 53.47s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 37
+  FLOPs: 772,717,936,640
+  Time: 29.70s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 55
+  FLOPs: 1,071,094,169,600
+  Time: 41.93s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 30
+  FLOPs: 3,029,666,365,440
+  Time: 155.11s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 43
+  FLOPs: 956,334,080,000
+  Time: 37.06s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 43
+  FLOPs: 696,211,210,240
+  Time: 26.10s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 7,849,590,128,640
+Total Time: 343.40s
+Final Question Accuracy: 14.29%
+Vote Distribution: {37: 2, 55: 1, 30: 1, 43: 2}
+
+==================================================
+Question 7 Summary:
+True Answer: 34
+
+Vote Progression:
+Vote 1:
+  Answer: 16
+  FLOPs: 826,272,645,120
+  Time: 29.76s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 6
+  FLOPs: 841,573,990,400
+  Time: 30.37s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 135.75s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 24
+  FLOPs: 2,983,762,329,600
+  Time: 132.53s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 24
+  FLOPs: 1,369,470,402,560
+  Time: 48.80s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 34
+  FLOPs: 2,731,290,132,480
+  Time: 115.27s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 11,782,035,865,600
+Total Time: 492.52s
+Final Question Accuracy: 12.50%
+Vote Distribution: {16: 1, 6: 1, 1: 1, 24: 2, 34: 1}
+
+==================================================
+Question 8 Summary:
+True Answer: 120
+
+Vote Progression:
+Vote 1:
+  Answer: 65
+  FLOPs: 703,861,882,880
+  Time: 24.83s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 600
+  FLOPs: 1,170,552,913,920
+  Time: 42.10s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 120
+  FLOPs: 1,208,806,277,120
+  Time: 42.87s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 6144
+  FLOPs: 2,440,564,572,160
+  Time: 98.13s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 120
+  FLOPs: 963,984,752,640
+  Time: 33.97s
+  Accuracy up to vote 5: 100.00%
+  >>> Majority answer changed at vote 5
+
+Vote 6:
+  Answer: 15
+  FLOPs: 3,029,666,365,440
+  Time: 134.91s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 9,517,436,764,160
+Total Time: 376.85s
+Final Question Accuracy: 22.22%
+Vote Distribution: {65: 1, 600: 1, 120: 2, 6144: 1, 15: 1}
+
+==================================================
+Question 9 Summary:
+True Answer: 11
+
+Vote Progression:
+Vote 1:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 147.09s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 148.60s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 4
+  FLOPs: 1,797,908,070,400
+  Time: 73.41s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 7
+  FLOPs: 3,029,666,365,440
+  Time: 148.35s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 15
+  FLOPs: 3,029,666,365,440
+  Time: 147.28s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 13
+  FLOPs: 3,029,666,365,440
+  Time: 147.30s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,946,239,897,600
+Total Time: 812.06s
+Final Question Accuracy: 20.00%
+Vote Distribution: {1: 2, 4: 1, 7: 1, 15: 1, 13: 1}
+
+==================================================
+Question 10 Summary:
+True Answer: 34
+
+Vote Progression:
+Vote 1:
+  Answer: 27
+  FLOPs: 3,029,666,365,440
+  Time: 159.66s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 27
+  FLOPs: 1,507,182,510,080
+  Time: 63.35s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 35
+  FLOPs: 1,713,750,671,360
+  Time: 72.75s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 41
+  FLOPs: 3,029,666,365,440
+  Time: 160.02s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 23
+  FLOPs: 3,029,666,365,440
+  Time: 159.89s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 22
+  FLOPs: 1,139,950,223,360
+  Time: 45.87s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,449,882,501,120
+Total Time: 661.57s
+Final Question Accuracy: 18.18%
+Vote Distribution: {27: 2, 35: 1, 41: 1, 23: 1, 22: 1}
+
+==================================================
+Question 11 Summary:
+True Answer: 12
+
+Vote Progression:
+Vote 1:
+  Answer: 12
+  FLOPs: 833,923,317,760
+  Time: 29.68s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 12
+  FLOPs: 459,040,358,400
+  Time: 16.57s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 12
+  FLOPs: 436,088,340,480
+  Time: 15.68s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 12
+  FLOPs: 1,423,025,111,040
+  Time: 51.49s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 12
+  FLOPs: 1,055,792,824,320
+  Time: 36.86s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 14
+  FLOPs: 1,828,510,760,960
+  Time: 68.79s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 6,036,380,712,960
+Total Time: 219.09s
+Final Question Accuracy: 25.00%
+Vote Distribution: {12: 5, 14: 1}
+
+==================================================
+Question 12 Summary:
+True Answer: 15
+
+Vote Progression:
+Vote 1:
+  Answer: 17
+  FLOPs: 2,463,516,590,080
+  Time: 105.58s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 6
+  FLOPs: 3,029,666,365,440
+  Time: 143.00s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 14
+  FLOPs: 1,308,265,021,440
+  Time: 50.04s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 142.19s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 12
+  FLOPs: 3,029,666,365,440
+  Time: 142.32s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 216
+  FLOPs: 3,029,666,365,440
+  Time: 142.92s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,890,447,073,280
+Total Time: 726.09s
+Final Question Accuracy: 23.08%
+Vote Distribution: {17: 1, 6: 1, 14: 1, 3: 1, 12: 1, 216: 1}
+
+==================================================
+Question 13 Summary:
+True Answer: 24
+
+Vote Progression:
+Vote 1:
+  Answer: 5
+  FLOPs: 3,029,666,365,440
+  Time: 135.83s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 9
+  FLOPs: 2,471,167,262,720
+  Time: 101.13s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 24
+  FLOPs: 1,805,558,743,040
+  Time: 67.78s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 36
+  FLOPs: 1,162,902,241,280
+  Time: 41.56s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 8
+  FLOPs: 1,729,052,016,640
+  Time: 64.90s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 16
+  FLOPs: 1,292,963,676,160
+  Time: 46.67s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 11,491,310,305,280
+Total Time: 457.91s
+Final Question Accuracy: 21.43%
+Vote Distribution: {5: 1, 9: 1, 24: 1, 36: 1, 8: 1, 16: 1}
+
+==================================================
+Question 14 Summary:
+True Answer: 105
+
+Vote Progression:
+Vote 1:
+  Answer: 25
+  FLOPs: 3,029,666,365,440
+  Time: 143.70s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 34
+  FLOPs: 2,624,180,715,520
+  Time: 115.80s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 11
+  FLOPs: 1,706,099,998,720
+  Time: 66.38s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 20
+  FLOPs: 1,583,689,236,480
+  Time: 60.38s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 50
+  FLOPs: 1,706,099,998,720
+  Time: 66.80s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 143.57s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,679,402,680,320
+Total Time: 596.67s
+Final Question Accuracy: 20.00%
+Vote Distribution: {25: 1, 34: 1, 11: 1, 20: 1, 50: 1, 2: 1}
+
+==================================================
+Question 15 Summary:
+True Answer: 120
+
+Vote Progression:
+Vote 1:
+  Answer: 70
+  FLOPs: 657,957,847,040
+  Time: 23.14s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 134.82s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 100
+  FLOPs: 1,002,238,115,840
+  Time: 34.38s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 70
+  FLOPs: 635,005,829,120
+  Time: 21.62s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 50
+  FLOPs: 719,163,228,160
+  Time: 24.79s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 70
+  FLOPs: 2,103,934,976,000
+  Time: 80.54s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 8,147,966,361,600
+Total Time: 319.62s
+Final Question Accuracy: 18.75%
+Vote Distribution: {70: 3, 2: 1, 100: 1, 50: 1}
+
+==================================================
+Question 16 Summary:
+True Answer: 17
+
+Vote Progression:
+Vote 1:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 134.09s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 17
+  FLOPs: 1,078,744,842,240
+  Time: 37.93s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 15
+  FLOPs: 2,983,762,329,600
+  Time: 131.95s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 10
+  FLOPs: 612,053,811,200
+  Time: 22.22s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 4
+  FLOPs: 1,484,230,492,160
+  Time: 55.80s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 22
+  FLOPs: 2,983,762,329,600
+  Time: 129.96s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,172,220,170,240
+Total Time: 511.98s
+Final Question Accuracy: 17.65%
+Vote Distribution: {1: 1, 17: 1, 15: 1, 10: 1, 4: 1, 22: 1}
+
+==================================================
+Question 17 Summary:
+True Answer: 36
+
+Vote Progression:
+Vote 1:
+  Answer: 70
+  FLOPs: 1,124,648,878,080
+  Time: 39.91s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 36
+  FLOPs: 1,139,950,223,360
+  Time: 40.01s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 42
+  FLOPs: 2,050,380,267,520
+  Time: 78.70s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 36
+  FLOPs: 1,912,668,160,000
+  Time: 73.22s
+  Accuracy up to vote 4: 100.00%
+  >>> Majority answer changed at vote 4
+
+Vote 5:
+  Answer: 36
+  FLOPs: 1,576,038,563,840
+  Time: 57.69s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 9
+  FLOPs: 443,739,013,120
+  Time: 15.07s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 8,247,425,105,920
+Total Time: 304.64s
+Final Question Accuracy: 22.22%
+Vote Distribution: {70: 1, 36: 3, 42: 1, 9: 1}
+
+==================================================
+Question 18 Summary:
+True Answer: 12
+
+Vote Progression:
+Vote 1:
+  Answer: 3
+  FLOPs: 1,277,662,330,880
+  Time: 45.45s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 6
+  FLOPs: 963,984,752,640
+  Time: 33.57s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 128
+  FLOPs: 3,029,666,365,440
+  Time: 133.95s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 2
+  FLOPs: 810,971,299,840
+  Time: 28.79s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 16
+  FLOPs: 742,115,246,080
+  Time: 25.98s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 12
+  FLOPs: 772,717,936,640
+  Time: 26.46s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 7,597,117,931,520
+Total Time: 294.23s
+Final Question Accuracy: 21.05%
+Vote Distribution: {3: 1, 6: 1, 128: 1, 2: 1, 16: 1, 12: 1}
+
+==================================================
+Question 19 Summary:
+True Answer: 45
+
+Vote Progression:
+Vote 1:
+  Answer: 28
+  FLOPs: 2,165,140,357,120
+  Time: 90.46s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 16
+  FLOPs: 3,029,666,365,440
+  Time: 146.27s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 18
+  FLOPs: 3,029,666,365,440
+  Time: 144.52s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 45
+  FLOPs: 2,815,447,531,520
+  Time: 130.35s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 29
+  FLOPs: 1,912,668,160,000
+  Time: 77.51s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 16
+  FLOPs: 3,029,666,365,440
+  Time: 145.14s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,982,255,144,960
+Total Time: 734.29s
+Final Question Accuracy: 20.00%
+Vote Distribution: {28: 1, 16: 2, 18: 1, 45: 1, 29: 1}
+
+==================================================
+Question 20 Summary:
+True Answer: 45
+
+Vote Progression:
+Vote 1:
+  Answer: 20
+  FLOPs: 1,071,094,169,600
+  Time: 39.74s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 145.39s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 5
+  FLOPs: 612,053,811,200
+  Time: 20.96s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 85
+  FLOPs: 2,884,303,585,280
+  Time: 134.13s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 70
+  FLOPs: 2,983,762,329,600
+  Time: 141.34s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 10
+  FLOPs: 680,909,864,960
+  Time: 24.33s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 11,261,790,126,080
+Total Time: 505.93s
+Final Question Accuracy: 19.05%
+Vote Distribution: {20: 1, None: 1, 5: 1, 85: 1, 70: 1, 10: 1}
+
+==================================================
+Question 21 Summary:
+True Answer: 8
+
+Vote Progression:
+Vote 1:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 135.52s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 134.74s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 40
+  FLOPs: 2,486,468,608,000
+  Time: 101.17s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 134.39s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 4
+  FLOPs: 1,224,107,622,400
+  Time: 44.93s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 12
+  FLOPs: 2,471,167,262,720
+  Time: 100.14s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,270,742,589,440
+Total Time: 650.93s
+Final Question Accuracy: 18.18%
+Vote Distribution: {None: 2, 3: 1, 40: 1, 4: 1, 12: 1}
+
+==================================================
+Question 22 Summary:
+True Answer: 36
+
+Vote Progression:
+Vote 1:
+  Answer: 7
+  FLOPs: 3,029,666,365,440
+  Time: 142.31s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 36
+  FLOPs: 2,195,743,047,680
+  Time: 88.56s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 6
+  FLOPs: 2,547,673,989,120
+  Time: 110.04s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 9
+  FLOPs: 3,029,666,365,440
+  Time: 141.83s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 8
+  FLOPs: 3,029,666,365,440
+  Time: 142.35s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 6
+  FLOPs: 2,976,111,656,960
+  Time: 136.94s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,808,527,790,080
+Total Time: 762.08s
+Final Question Accuracy: 17.39%
+Vote Distribution: {7: 1, 36: 1, 6: 2, 9: 1, 8: 1}
+
+==================================================
+Question 23 Summary:
+True Answer: 1
+
+Vote Progression:
+Vote 1:
+  Answer: 18
+  FLOPs: 3,029,666,365,440
+  Time: 142.57s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 5
+  FLOPs: 3,029,666,365,440
+  Time: 141.90s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 11
+  FLOPs: 1,285,313,003,520
+  Time: 47.93s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 131
+  FLOPs: 1,889,716,142,080
+  Time: 74.62s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 140.98s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 9
+  FLOPs: 1,009,888,788,480
+  Time: 36.78s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,273,917,030,400
+Total Time: 584.81s
+Final Question Accuracy: 16.67%
+Vote Distribution: {18: 1, 5: 1, 11: 1, 131: 1, 3: 1, 9: 1}
+
+==================================================
+Question 24 Summary:
+True Answer: 18
+
+Vote Progression:
+Vote 1:
+  Answer: 11
+  FLOPs: 1,774,956,052,480
+  Time: 65.69s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 10
+  FLOPs: 1,162,902,241,280
+  Time: 42.86s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 14
+  FLOPs: 1,247,059,640,320
+  Time: 45.95s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 10
+  FLOPs: 2,425,263,226,880
+  Time: 97.47s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 14
+  FLOPs: 1,499,531,837,440
+  Time: 54.30s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 4
+  FLOPs: 2,218,695,065,600
+  Time: 84.61s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 10,328,408,064,000
+Total Time: 390.91s
+Final Question Accuracy: 16.00%
+Vote Distribution: {11: 1, 10: 2, 14: 2, 4: 1}
+
+==================================================
+Question 25 Summary:
+True Answer: 33
+
+Vote Progression:
+Vote 1:
+  Answer: 44
+  FLOPs: 1,828,510,760,960
+  Time: 73.85s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 33
+  FLOPs: 3,006,714,347,520
+  Time: 145.20s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 43
+  FLOPs: 1,553,086,545,920
+  Time: 60.88s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 25
+  FLOPs: 2,899,604,930,560
+  Time: 137.75s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 33
+  FLOPs: 1,430,675,783,680
+  Time: 55.24s
+  Accuracy up to vote 5: 100.00%
+  >>> Majority answer changed at vote 5
+
+Vote 6:
+  Answer: 17
+  FLOPs: 1,369,470,402,560
+  Time: 52.33s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 12,088,062,771,200
+Total Time: 525.29s
+Final Question Accuracy: 19.23%
+Vote Distribution: {44: 1, 33: 2, 43: 1, 25: 1, 17: 1}
+
+==================================================
+Question 26 Summary:
+True Answer: 1248
+
+Vote Progression:
+Vote 1:
+  Answer: 240
+  FLOPs: 3,029,666,365,440
+  Time: 144.21s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 768
+  FLOPs: 2,387,009,863,680
+  Time: 102.26s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 601
+  FLOPs: 1,369,470,402,560
+  Time: 52.08s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 0
+  FLOPs: 3,029,666,365,440
+  Time: 143.66s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 3600
+  FLOPs: 3,029,666,365,440
+  Time: 143.02s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 416
+  FLOPs: 2,869,002,240,000
+  Time: 133.12s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,714,481,602,560
+Total Time: 718.39s
+Final Question Accuracy: 18.52%
+Vote Distribution: {240: 1, 768: 1, 601: 1, 0: 1, 3600: 1, 416: 1}
+
+==================================================
+Question 27 Summary:
+True Answer: 25
+
+Vote Progression:
+Vote 1:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 136.26s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 33
+  FLOPs: 2,440,564,572,160
+  Time: 100.28s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 325
+  FLOPs: 2,991,413,002,240
+  Time: 132.68s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 60
+  FLOPs: 1,445,977,128,960
+  Time: 54.52s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 33
+  FLOPs: 2,593,578,024,960
+  Time: 106.87s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 4
+  FLOPs: 3,029,666,365,440
+  Time: 136.17s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,530,865,459,200
+Total Time: 666.82s
+Final Question Accuracy: 17.86%
+Vote Distribution: {3: 1, 33: 2, 325: 1, 60: 1, 4: 1}
+
+==================================================
+Question 28 Summary:
+True Answer: 1
+
+Vote Progression:
+Vote 1:
+  Answer: 1
+  FLOPs: 1,690,798,653,440
+  Time: 66.08s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 10
+  FLOPs: 3,029,666,365,440
+  Time: 140.61s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 4
+  FLOPs: 3,029,666,365,440
+  Time: 140.72s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 1
+  FLOPs: 2,394,660,536,320
+  Time: 100.70s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 1
+  FLOPs: 879,827,353,600
+  Time: 31.12s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: None
+  FLOPs: 1,277,662,330,880
+  Time: 47.29s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 12,302,281,605,120
+Total Time: 526.56s
+Final Question Accuracy: 20.69%
+Vote Distribution: {1: 3, 10: 1, 4: 1, None: 1}
+
+==================================================
+Question 29 Summary:
+True Answer: 32
+
+Vote Progression:
+Vote 1:
+  Answer: 0
+  FLOPs: 2,318,153,809,920
+  Time: 92.95s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 50
+  FLOPs: 3,029,666,365,440
+  Time: 135.20s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 40
+  FLOPs: 1,690,798,653,440
+  Time: 62.80s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 73
+  FLOPs: 2,348,756,500,480
+  Time: 94.41s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 136.65s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 4
+  FLOPs: 1,461,278,474,240
+  Time: 53.53s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,878,320,168,960
+Total Time: 575.57s
+Final Question Accuracy: 20.00%
+Vote Distribution: {0: 1, 50: 1, 40: 1, 73: 1, 3: 1, 4: 1}
+
+==================================================
+Question 30 Summary:
+True Answer: 2
+
+Vote Progression:
+Vote 1:
+  Answer: 540
+  FLOPs: 3,029,666,365,440
+  Time: 135.58s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 240
+  FLOPs: 1,315,915,694,080
+  Time: 48.25s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 135.80s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 15
+  FLOPs: 3,029,666,365,440
+  Time: 135.04s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 135.14s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 1800
+  FLOPs: 3,022,015,692,800
+  Time: 131.90s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,456,596,848,640
+Total Time: 721.75s
+Final Question Accuracy: 19.35%
+Vote Distribution: {540: 1, 240: 1, None: 1, 15: 1, 1: 1, 1800: 1}
+
+==================================================
+Question 31 Summary:
+True Answer: 30
+
+Vote Progression:
+Vote 1:
+  Answer: 30
+  FLOPs: 3,029,666,365,440
+  Time: 139.91s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 5
+  FLOPs: 474,341,703,680
+  Time: 16.18s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 30
+  FLOPs: 535,547,084,800
+  Time: 18.69s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 30
+  FLOPs: 497,293,721,600
+  Time: 17.55s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 30
+  FLOPs: 1,002,238,115,840
+  Time: 36.06s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 30
+  FLOPs: 3,029,666,365,440
+  Time: 140.00s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 8,568,753,356,800
+Total Time: 368.43s
+Final Question Accuracy: 21.88%
+Vote Distribution: {30: 5, 5: 1}
+
+==================================================
+Question 32 Summary:
+True Answer: 4
+
+Vote Progression:
+Vote 1:
+  Answer: 4
+  FLOPs: 504,944,394,240
+  Time: 17.17s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 142.21s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 4
+  FLOPs: 1,193,504,931,840
+  Time: 44.40s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: None
+  FLOPs: 2,195,743,047,680
+  Time: 90.07s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 4
+  FLOPs: 711,512,555,520
+  Time: 25.41s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 15
+  FLOPs: 2,256,948,428,800
+  Time: 93.60s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 9,892,319,723,520
+Total Time: 412.90s
+Final Question Accuracy: 24.24%
+Vote Distribution: {4: 3, 3: 1, None: 1, 15: 1}
+
+==================================================
+Question 33 Summary:
+True Answer: 54
+
+Vote Progression:
+Vote 1:
+  Answer: 54
+  FLOPs: 1,583,689,236,480
+  Time: 60.19s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 288
+  FLOPs: 3,029,666,365,440
+  Time: 139.76s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 477
+  FLOPs: 3,029,666,365,440
+  Time: 140.03s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 36
+  FLOPs: 3,029,666,365,440
+  Time: 138.82s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 468
+  FLOPs: 2,914,906,275,840
+  Time: 131.39s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 144
+  FLOPs: 1,338,867,712,000
+  Time: 50.22s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 14,926,462,320,640
+Total Time: 660.46s
+Final Question Accuracy: 26.47%
+Vote Distribution: {54: 1, 288: 1, 477: 1, 36: 1, 468: 1, 144: 1}
+
+==================================================
+Question 34 Summary:
+True Answer: 250
+
+Vote Progression:
+Vote 1:
+  Answer: 390
+  FLOPs: 1,178,203,586,560
+  Time: 47.21s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1600
+  FLOPs: 3,029,666,365,440
+  Time: 156.82s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 70
+  FLOPs: 918,080,716,800
+  Time: 35.72s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 490
+  FLOPs: 3,029,666,365,440
+  Time: 156.85s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 13
+  FLOPs: 1,843,812,106,240
+  Time: 78.76s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 160
+  FLOPs: 3,029,666,365,440
+  Time: 157.03s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,029,095,505,920
+Total Time: 632.44s
+Final Question Accuracy: 25.71%
+Vote Distribution: {390: 1, 1600: 1, 70: 1, 490: 1, 13: 1, 160: 1}
+
+==================================================
+Question 35 Summary:
+True Answer: 324
+
+Vote Progression:
+Vote 1:
+  Answer: 663
+  FLOPs: 2,065,681,612,800
+  Time: 86.47s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 148.39s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 309
+  FLOPs: 3,029,666,365,440
+  Time: 148.21s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 459
+  FLOPs: 1,231,758,295,040
+  Time: 47.19s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 219
+  FLOPs: 3,029,666,365,440
+  Time: 148.15s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 148.59s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,416,105,369,600
+Total Time: 727.05s
+Final Question Accuracy: 25.00%
+Vote Distribution: {663: 1, 2: 2, 309: 1, 459: 1, 219: 1}
+
+==================================================
+Question 36 Summary:
+True Answer: 129200
+
+Vote Progression:
+Vote 1:
+  Answer: 98800
+  FLOPs: 1,629,593,272,320
+  Time: 63.16s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 17600
+  FLOPs: 107,109,416,960
+  Time: 3.58s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 98800
+  FLOPs: 1,583,689,236,480
+  Time: 59.98s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 28400
+  FLOPs: 2,027,428,249,600
+  Time: 81.77s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 129200
+  FLOPs: 1,086,395,514,880
+  Time: 39.53s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 76000
+  FLOPs: 3,029,666,365,440
+  Time: 139.06s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 9,463,882,055,680
+Total Time: 387.12s
+Final Question Accuracy: 24.32%
+Vote Distribution: {98800: 2, 17600: 1, 28400: 1, 129200: 1, 76000: 1}
+
+==================================================
+Question 37 Summary:
+True Answer: 4400
+
+Vote Progression:
+Vote 1:
+  Answer: 38
+  FLOPs: 3,029,666,365,440
+  Time: 148.20s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 3960
+  FLOPs: 3,029,666,365,440
+  Time: 147.41s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 3600
+  FLOPs: 2,999,063,674,880
+  Time: 146.17s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 4500
+  FLOPs: 1,882,065,469,440
+  Time: 76.23s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 4892
+  FLOPs: 2,035,078,922,240
+  Time: 83.79s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 6832
+  FLOPs: 2,999,063,674,880
+  Time: 144.92s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,974,604,472,320
+Total Time: 746.76s
+Final Question Accuracy: 23.68%
+Vote Distribution: {38: 1, 3960: 1, 3600: 1, 4500: 1, 4892: 1, 6832: 1}
+
+==================================================
+Question 38 Summary:
+True Answer: 70
+
+Vote Progression:
+Vote 1:
+  Answer: 50
+  FLOPs: 902,779,371,520
+  Time: 32.73s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 35
+  FLOPs: 1,254,710,312,960
+  Time: 46.49s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 139.83s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 300
+  FLOPs: 589,101,793,280
+  Time: 19.45s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 101
+  FLOPs: 3,029,666,365,440
+  Time: 139.45s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 600
+  FLOPs: 3,029,666,365,440
+  Time: 140.10s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 11,835,590,574,080
+Total Time: 518.08s
+Final Question Accuracy: 23.08%
+Vote Distribution: {50: 1, 35: 1, 1: 1, 300: 1, 101: 1, 600: 1}
+
+==================================================
+Question 39 Summary:
+True Answer: 276000
+
+Vote Progression:
+Vote 1:
+  Answer: 252000
+  FLOPs: 2,172,791,029,760
+  Time: 88.04s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 252000
+  FLOPs: 1,354,169,057,280
+  Time: 50.55s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 21120
+  FLOPs: 1,430,675,783,680
+  Time: 53.81s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 252
+  FLOPs: 1,017,539,461,120
+  Time: 36.38s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 36000
+  FLOPs: 3,029,666,365,440
+  Time: 139.91s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 276000
+  FLOPs: 1,285,313,003,520
+  Time: 47.60s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 10,290,154,700,800
+Total Time: 416.33s
+Final Question Accuracy: 22.50%
+Vote Distribution: {252000: 2, 21120: 1, 252: 1, 36000: 1, 276000: 1}
+
+==================================================
+Question 40 Summary:
+True Answer: 108
+
+Vote Progression:
+Vote 1:
+  Answer: 108
+  FLOPs: 3,029,666,365,440
+  Time: 145.63s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 21
+  FLOPs: 3,029,666,365,440
+  Time: 145.93s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 144.54s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 5
+  FLOPs: 3,029,666,365,440
+  Time: 144.68s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 144.26s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 14
+  FLOPs: 2,983,762,329,600
+  Time: 141.38s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 18,132,094,156,800
+Total Time: 866.48s
+Final Question Accuracy: 24.39%
+Vote Distribution: {108: 1, 21: 1, 1: 1, 5: 1, 3: 1, 14: 1}
+
+==================================================
+Question 41 Summary:
+True Answer: 160
+
+Vote Progression:
+Vote 1:
+  Answer: 25
+  FLOPs: 2,846,050,222,080
+  Time: 122.49s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 25
+  FLOPs: 3,029,666,365,440
+  Time: 134.71s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 33
+  FLOPs: 2,058,030,940,160
+  Time: 79.81s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 6
+  FLOPs: 1,644,894,617,600
+  Time: 62.19s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 26
+  FLOPs: 3,029,666,365,440
+  Time: 135.58s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 40
+  FLOPs: 558,499,102,720
+  Time: 18.70s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,166,807,613,440
+Total Time: 553.52s
+Final Question Accuracy: 23.81%
+Vote Distribution: {25: 2, 33: 1, 6: 1, 26: 1, 40: 1}
+
+==================================================
+Question 42 Summary:
+True Answer: 90
+
+Vote Progression:
+Vote 1:
+  Answer: 90
+  FLOPs: 1,239,408,967,680
+  Time: 44.87s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 90
+  FLOPs: 749,765,918,720
+  Time: 27.24s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 90
+  FLOPs: 642,656,501,760
+  Time: 22.79s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 90
+  FLOPs: 2,203,393,720,320
+  Time: 88.29s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 90
+  FLOPs: 772,717,936,640
+  Time: 26.98s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 8100000
+  FLOPs: 3,029,666,365,440
+  Time: 136.58s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 8,637,609,410,560
+Total Time: 346.79s
+Final Question Accuracy: 25.58%
+Vote Distribution: {90: 5, 8100000: 1}
+
+==================================================
+Question 43 Summary:
+True Answer: 20
+
+Vote Progression:
+Vote 1:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 138.37s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 20
+  FLOPs: 520,245,739,520
+  Time: 16.62s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 20
+  FLOPs: 1,545,435,873,280
+  Time: 56.66s
+  Accuracy up to vote 3: 100.00%
+  >>> Majority answer changed at vote 3
+
+Vote 4:
+  Answer: 20
+  FLOPs: 3,029,666,365,440
+  Time: 137.15s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 2
+  FLOPs: 2,226,345,738,240
+  Time: 87.90s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 20
+  FLOPs: 719,163,228,160
+  Time: 25.56s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 11,070,523,310,080
+Total Time: 462.30s
+Final Question Accuracy: 27.27%
+Vote Distribution: {2: 2, 20: 4}
+
+==================================================
+Question 44 Summary:
+True Answer: 296
+
+Vote Progression:
+Vote 1:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 144.02s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 296
+  FLOPs: 1,109,347,532,800
+  Time: 41.19s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 240
+  FLOPs: 3,029,666,365,440
+  Time: 143.07s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 136
+  FLOPs: 1,285,313,003,520
+  Time: 48.03s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 480
+  FLOPs: 2,991,413,002,240
+  Time: 141.44s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 136
+  FLOPs: 1,560,737,218,560
+  Time: 60.10s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,006,143,488,000
+Total Time: 577.88s
+Final Question Accuracy: 26.67%
+Vote Distribution: {1: 1, 296: 1, 240: 1, 136: 2, 480: 1}
+
+==================================================
+Question 45 Summary:
+True Answer: 4800
+
+Vote Progression:
+Vote 1:
+  Answer: 4800
+  FLOPs: 1,201,155,604,480
+  Time: 44.38s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 2400
+  FLOPs: 3,029,666,365,440
+  Time: 142.66s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 4800
+  FLOPs: 1,132,299,550,720
+  Time: 41.92s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 2640
+  FLOPs: 1,828,510,760,960
+  Time: 73.34s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 7000
+  FLOPs: 3,029,666,365,440
+  Time: 143.05s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 2400
+  FLOPs: 1,782,606,725,120
+  Time: 70.59s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 12,003,905,372,160
+Total Time: 515.97s
+Final Question Accuracy: 28.26%
+Vote Distribution: {4800: 2, 2400: 2, 2640: 1, 7000: 1}
+
+==================================================
+Question 46 Summary:
+True Answer: 30
+
+Vote Progression:
+Vote 1:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 134.99s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 32
+  FLOPs: 1,882,065,469,440
+  Time: 72.59s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 134.33s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 20
+  FLOPs: 1,155,251,568,640
+  Time: 41.44s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 14
+  FLOPs: 3,029,666,365,440
+  Time: 136.64s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 135.84s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,155,982,499,840
+Total Time: 655.87s
+Final Question Accuracy: 27.66%
+Vote Distribution: {2: 1, 32: 1, 3: 1, 20: 1, 14: 1, 1: 1}
+
+==================================================
+Question 47 Summary:
+True Answer: 8
+
+Vote Progression:
+Vote 1:
+  Answer: 12
+  FLOPs: 3,029,666,365,440
+  Time: 136.38s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 16
+  FLOPs: 1,767,305,379,840
+  Time: 67.48s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 3
+  FLOPs: 841,573,990,400
+  Time: 29.58s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 22
+  FLOPs: 2,815,447,531,520
+  Time: 122.38s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 8
+  FLOPs: 1,989,174,886,400
+  Time: 78.60s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 2
+  FLOPs: 1,905,017,487,360
+  Time: 74.59s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,348,185,640,960
+Total Time: 509.03s
+Final Question Accuracy: 27.08%
+Vote Distribution: {12: 1, 16: 1, 3: 1, 22: 1, 8: 1, 2: 1}
+
+==================================================
+Question 48 Summary:
+True Answer: 1920
+
+Vote Progression:
+Vote 1:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 143.58s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1920
+  FLOPs: 2,631,831,388,160
+  Time: 116.84s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 120
+  FLOPs: 1,201,155,604,480
+  Time: 45.04s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 8
+  FLOPs: 3,029,666,365,440
+  Time: 143.86s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 24
+  FLOPs: 2,983,762,329,600
+  Time: 140.06s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 1920
+  FLOPs: 3,029,666,365,440
+  Time: 142.72s
+  Accuracy up to vote 6: 100.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 15,905,748,418,560
+Total Time: 732.14s
+Final Question Accuracy: 28.57%
+Vote Distribution: {3: 1, 1920: 2, 120: 1, 8: 1, 24: 1}
+
+==================================================
+Question 49 Summary:
+True Answer: 6
+
+Vote Progression:
+Vote 1:
+  Answer: 38
+  FLOPs: 2,983,762,329,600
+  Time: 141.58s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 12
+  FLOPs: 650,307,174,400
+  Time: 23.59s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 10
+  FLOPs: 2,356,407,173,120
+  Time: 101.18s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 39
+  FLOPs: 3,029,666,365,440
+  Time: 145.15s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 20
+  FLOPs: 2,983,762,329,600
+  Time: 141.35s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 6
+  FLOPs: 1,239,408,967,680
+  Time: 46.69s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,243,314,339,840
+Total Time: 599.57s
+Final Question Accuracy: 28.00%
+Vote Distribution: {38: 1, 12: 1, 10: 1, 39: 1, 20: 1, 6: 1}
+
+==================================================
+Question 50 Summary:
+True Answer: 13
+
+Vote Progression:
+Vote 1:
+  Answer: 13
+  FLOPs: 1,193,504,931,840
+  Time: 40.89s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 0
+  FLOPs: 3,029,666,365,440
+  Time: 129.35s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 15
+  FLOPs: 1,507,182,510,080
+  Time: 53.86s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 48
+  FLOPs: 2,685,386,096,640
+  Time: 108.89s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 129.01s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 32
+  FLOPs: 2,846,050,222,080
+  Time: 119.44s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 14,291,456,491,520
+Total Time: 581.47s
+Final Question Accuracy: 29.41%
+Vote Distribution: {13: 1, 0: 1, 15: 1, 48: 1, 3: 1, 32: 1}
+
+==================================================
+Question 51 Summary:
+True Answer: 420
+
+Vote Progression:
+Vote 1:
+  Answer: 40
+  FLOPs: 596,752,465,920
+  Time: 20.99s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 840
+  FLOPs: 1,468,929,146,880
+  Time: 54.54s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 640
+  FLOPs: 948,683,407,360
+  Time: 33.22s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 480
+  FLOPs: 1,752,004,034,560
+  Time: 67.21s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 23
+  FLOPs: 1,537,785,200,640
+  Time: 56.25s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 1840
+  FLOPs: 1,071,094,169,600
+  Time: 37.56s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 7,375,248,424,960
+Total Time: 269.80s
+Final Question Accuracy: 28.85%
+Vote Distribution: {40: 1, 840: 1, 640: 1, 480: 1, 23: 1, 1840: 1}
+
+==================================================
+Question 52 Summary:
+True Answer: 10
+
+Vote Progression:
+Vote 1:
+  Answer: 18
+  FLOPs: 2,211,044,392,960
+  Time: 85.97s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 14
+  FLOPs: 3,029,666,365,440
+  Time: 133.70s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 13
+  FLOPs: 1,805,558,743,040
+  Time: 69.55s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 135.11s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 6
+  FLOPs: 2,976,111,656,960
+  Time: 130.66s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 2
+  FLOPs: 1,346,518,384,640
+  Time: 49.47s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,398,565,908,480
+Total Time: 604.50s
+Final Question Accuracy: 28.30%
+Vote Distribution: {18: 1, 14: 1, 13: 1, 1: 1, 6: 1, 2: 1}
+
+==================================================
+Question 53 Summary:
+True Answer: 12
+
+Vote Progression:
+Vote 1:
+  Answer: 16
+  FLOPs: 3,029,666,365,440
+  Time: 140.08s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 22
+  FLOPs: 1,308,265,021,440
+  Time: 49.51s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 16
+  FLOPs: 3,029,666,365,440
+  Time: 139.71s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 11
+  FLOPs: 1,354,169,057,280
+  Time: 50.91s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 12
+  FLOPs: 902,779,371,520
+  Time: 31.29s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 12
+  FLOPs: 971,635,425,280
+  Time: 34.53s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 10,596,181,606,400
+Total Time: 446.05s
+Final Question Accuracy: 27.78%
+Vote Distribution: {16: 2, 22: 1, 11: 1, 12: 2}
+
+==================================================
+Question 54 Summary:
+True Answer: 50
+
+Vote Progression:
+Vote 1:
+  Answer: 50
+  FLOPs: 918,080,716,800
+  Time: 32.50s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 50
+  FLOPs: 1,958,572,195,840
+  Time: 78.58s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 35
+  FLOPs: 1,644,894,617,600
+  Time: 64.18s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 50
+  FLOPs: 872,176,680,960
+  Time: 31.46s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 50
+  FLOPs: 818,621,972,480
+  Time: 29.46s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 50
+  FLOPs: 1,667,846,635,520
+  Time: 65.67s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 7,880,192,819,200
+Total Time: 301.89s
+Final Question Accuracy: 29.09%
+Vote Distribution: {50: 5, 35: 1}
+
+==================================================
+Question 55 Summary:
+True Answer: 92
+
+Vote Progression:
+Vote 1:
+  Answer: 140
+  FLOPs: 1,170,552,913,920
+  Time: 43.64s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 3
+  FLOPs: 2,364,057,845,760
+  Time: 98.53s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 188
+  FLOPs: 3,029,666,365,440
+  Time: 144.11s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 92
+  FLOPs: 795,669,954,560
+  Time: 28.43s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 22
+  FLOPs: 1,851,462,778,880
+  Time: 74.65s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 116
+  FLOPs: 2,792,495,513,600
+  Time: 128.08s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,003,905,372,160
+Total Time: 517.48s
+Final Question Accuracy: 28.57%
+Vote Distribution: {140: 1, 3: 1, 188: 1, 92: 1, 22: 1, 116: 1}
+
+==================================================
+Question 56 Summary:
+True Answer: 623
+
+Vote Progression:
+Vote 1:
+  Answer: 502
+  FLOPs: 803,320,627,200
+  Time: 27.70s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 132.56s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 151
+  FLOPs: 2,738,940,805,120
+  Time: 114.00s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 623
+  FLOPs: 772,717,936,640
+  Time: 26.92s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 248
+  FLOPs: 1,721,401,344,000
+  Time: 65.67s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 603
+  FLOPs: 1,009,888,788,480
+  Time: 34.97s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 10,075,935,866,880
+Total Time: 401.84s
+Final Question Accuracy: 28.07%
+Vote Distribution: {502: 1, 1: 1, 151: 1, 623: 1, 248: 1, 603: 1}
+
+==================================================
+Question 57 Summary:
+True Answer: 40
+
+Vote Progression:
+Vote 1:
+  Answer: 14
+  FLOPs: 3,029,666,365,440
+  Time: 140.28s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 28
+  FLOPs: 2,402,311,208,960
+  Time: 100.03s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 9
+  FLOPs: 3,029,666,365,440
+  Time: 140.74s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 49
+  FLOPs: 3,029,666,365,440
+  Time: 139.72s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 69
+  FLOPs: 3,029,666,365,440
+  Time: 140.45s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 9
+  FLOPs: 2,853,700,894,720
+  Time: 129.59s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 17,374,677,565,440
+Total Time: 790.85s
+Final Question Accuracy: 27.59%
+Vote Distribution: {14: 1, 28: 1, 9: 2, 49: 1, 69: 1}
+
+==================================================
+Question 58 Summary:
+True Answer: 17
+
+Vote Progression:
+Vote 1:
+  Answer: 20
+  FLOPs: 1,820,860,088,320
+  Time: 74.45s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 4
+  FLOPs: 2,976,111,656,960
+  Time: 143.54s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 102
+  FLOPs: 3,029,666,365,440
+  Time: 147.30s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 17
+  FLOPs: 2,409,961,881,600
+  Time: 106.60s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 147.69s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 11
+  FLOPs: 2,983,762,329,600
+  Time: 144.76s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,250,028,687,360
+Total Time: 764.39s
+Final Question Accuracy: 27.12%
+Vote Distribution: {20: 1, 4: 1, 102: 1, 17: 1, 3: 1, 11: 1}
+
+==================================================
+Question 59 Summary:
+True Answer: 940
+
+Vote Progression:
+Vote 1:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 134.61s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1
+  FLOPs: 2,134,537,666,560
+  Time: 83.77s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 560
+  FLOPs: 734,464,573,440
+  Time: 26.18s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 560
+  FLOPs: 1,170,552,913,920
+  Time: 42.64s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 940
+  FLOPs: 1,139,950,223,360
+  Time: 40.53s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 1120
+  FLOPs: 596,752,465,920
+  Time: 19.94s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 8,805,924,208,640
+Total Time: 347.69s
+Final Question Accuracy: 26.67%
+Vote Distribution: {3: 1, 1: 1, 560: 2, 940: 1, 1120: 1}
+
+==================================================
+Question 60 Summary:
+True Answer: 10
+
+Vote Progression:
+Vote 1:
+  Answer: 10
+  FLOPs: 1,461,278,474,240
+  Time: 54.43s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 50
+  FLOPs: 2,004,476,231,680
+  Time: 76.89s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 9
+  FLOPs: 2,080,982,958,080
+  Time: 82.72s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 60
+  FLOPs: 2,149,839,011,840
+  Time: 84.03s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 1
+  FLOPs: 742,115,246,080
+  Time: 25.67s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 12
+  FLOPs: 1,254,710,312,960
+  Time: 45.46s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 9,693,402,234,880
+Total Time: 369.24s
+Final Question Accuracy: 27.87%
+Vote Distribution: {10: 1, 50: 1, 9: 1, 60: 1, 1: 1, 12: 1}
+
+==================================================
+Question 61 Summary:
+True Answer: 540
+
+Vote Progression:
+Vote 1:
+  Answer: 1020
+  FLOPs: 2,677,735,424,000
+  Time: 119.46s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 780
+  FLOPs: 1,423,025,111,040
+  Time: 54.23s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 490
+  FLOPs: 1,308,265,021,440
+  Time: 49.05s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 137
+  FLOPs: 3,029,666,365,440
+  Time: 141.08s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 540
+  FLOPs: 1,675,497,308,160
+  Time: 65.86s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 9
+  FLOPs: 2,172,791,029,760
+  Time: 88.98s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,286,980,259,840
+Total Time: 518.69s
+Final Question Accuracy: 27.42%
+Vote Distribution: {1020: 1, 780: 1, 490: 1, 137: 1, 540: 1, 9: 1}
+
+==================================================
+Question 62 Summary:
+True Answer: 110
+
+Vote Progression:
+Vote 1:
+  Answer: 110
+  FLOPs: 1,354,169,057,280
+  Time: 49.14s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 228
+  FLOPs: 3,029,666,365,440
+  Time: 134.72s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 140
+  FLOPs: 2,249,297,756,160
+  Time: 88.36s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 110
+  FLOPs: 1,660,195,962,880
+  Time: 62.90s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 20
+  FLOPs: 3,029,666,365,440
+  Time: 134.62s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 110
+  FLOPs: 1,009,888,788,480
+  Time: 35.72s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 12,332,884,295,680
+Total Time: 505.49s
+Final Question Accuracy: 28.57%
+Vote Distribution: {110: 3, 228: 1, 140: 1, 20: 1}
+
+==================================================
+Question 63 Summary:
+True Answer: 20
+
+Vote Progression:
+Vote 1:
+  Answer: 12
+  FLOPs: 2,310,503,137,280
+  Time: 92.80s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 35
+  FLOPs: 3,029,666,365,440
+  Time: 134.82s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 7
+  FLOPs: 3,029,666,365,440
+  Time: 133.42s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 4
+  FLOPs: 2,677,735,424,000
+  Time: 111.18s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 29
+  FLOPs: 1,568,387,891,200
+  Time: 59.01s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 5
+  FLOPs: 2,088,633,630,720
+  Time: 82.09s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,704,592,814,080
+Total Time: 613.36s
+Final Question Accuracy: 28.12%
+Vote Distribution: {12: 1, 35: 1, 7: 1, 4: 1, 29: 1, 5: 1}
+
+==================================================
+Question 64 Summary:
+True Answer: 560
+
+Vote Progression:
+Vote 1:
+  Answer: 49200
+  FLOPs: 2,233,996,410,880
+  Time: 89.28s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 0
+  FLOPs: 3,022,015,692,800
+  Time: 135.80s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 560
+  FLOPs: 1,369,470,402,560
+  Time: 50.61s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 560
+  FLOPs: 2,157,489,684,480
+  Time: 86.37s
+  Accuracy up to vote 4: 100.00%
+  >>> Majority answer changed at vote 4
+
+Vote 5:
+  Answer: 140
+  FLOPs: 3,029,666,365,440
+  Time: 137.28s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 1185
+  FLOPs: 3,029,666,365,440
+  Time: 137.34s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 14,842,304,921,600
+Total Time: 636.70s
+Final Question Accuracy: 29.23%
+Vote Distribution: {49200: 1, 0: 1, 560: 2, 140: 1, 1185: 1}
+
+==================================================
+Question 65 Summary:
+True Answer: 24
+
+Vote Progression:
+Vote 1:
+  Answer: 14
+  FLOPs: 3,029,666,365,440
+  Time: 131.12s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 24
+  FLOPs: 1,820,860,088,320
+  Time: 67.68s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 10
+  FLOPs: 2,907,255,603,200
+  Time: 123.79s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 8
+  FLOPs: 1,644,894,617,600
+  Time: 61.10s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 12
+  FLOPs: 772,717,936,640
+  Time: 27.56s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 24
+  FLOPs: 795,669,954,560
+  Time: 28.31s
+  Accuracy up to vote 6: 100.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 10,971,064,565,760
+Total Time: 439.59s
+Final Question Accuracy: 30.30%
+Vote Distribution: {14: 1, 24: 2, 10: 1, 8: 1, 12: 1}
+
+==================================================
+Question 66 Summary:
+True Answer: 22
+
+Vote Progression:
+Vote 1:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 147.09s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 11
+  FLOPs: 3,029,666,365,440
+  Time: 147.29s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 22
+  FLOPs: 1,484,230,492,160
+  Time: 58.61s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 16
+  FLOPs: 2,310,503,137,280
+  Time: 99.99s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 13
+  FLOPs: 589,101,793,280
+  Time: 20.90s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 10
+  FLOPs: 3,029,666,365,440
+  Time: 148.04s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,472,834,519,040
+Total Time: 622.37s
+Final Question Accuracy: 29.85%
+Vote Distribution: {1: 1, 11: 1, 22: 1, 16: 1, 13: 1, 10: 1}
+
+==================================================
+Question 67 Summary:
+True Answer: 4
+
+Vote Progression:
+Vote 1:
+  Answer: 25
+  FLOPs: 3,029,666,365,440
+  Time: 139.49s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 0
+  FLOPs: 2,570,626,007,040
+  Time: 110.29s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 21
+  FLOPs: 1,537,785,200,640
+  Time: 59.53s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 20
+  FLOPs: 2,983,762,329,600
+  Time: 137.52s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 9
+  FLOPs: 1,277,662,330,880
+  Time: 47.02s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 14
+  FLOPs: 642,656,501,760
+  Time: 22.72s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,042,158,735,360
+Total Time: 516.61s
+Final Question Accuracy: 29.41%
+Vote Distribution: {25: 1, 0: 1, 21: 1, 20: 1, 9: 1, 14: 1}
+
+==================================================
+Question 68 Summary:
+True Answer: 22
+
+Vote Progression:
+Vote 1:
+  Answer: 16
+  FLOPs: 2,387,009,863,680
+  Time: 98.45s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 22
+  FLOPs: 879,827,353,600
+  Time: 31.98s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 33
+  FLOPs: 2,425,263,226,880
+  Time: 100.34s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 13
+  FLOPs: 1,430,675,783,680
+  Time: 54.00s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 16
+  FLOPs: 2,983,762,329,600
+  Time: 135.98s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 62
+  FLOPs: 2,302,852,464,640
+  Time: 94.49s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,409,391,022,080
+Total Time: 515.28s
+Final Question Accuracy: 28.99%
+Vote Distribution: {16: 2, 22: 1, 33: 1, 13: 1, 62: 1}
+
+==================================================
+Question 69 Summary:
+True Answer: 64
+
+Vote Progression:
+Vote 1:
+  Answer: 27
+  FLOPs: 2,983,762,329,600
+  Time: 135.80s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 20
+  FLOPs: 1,805,558,743,040
+  Time: 71.09s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 0
+  FLOPs: 2,976,111,656,960
+  Time: 135.31s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 48
+  FLOPs: 3,029,666,365,440
+  Time: 138.60s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 85
+  FLOPs: 1,752,004,034,560
+  Time: 68.23s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 32
+  FLOPs: 1,621,942,599,680
+  Time: 61.18s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,169,045,729,280
+Total Time: 610.24s
+Final Question Accuracy: 28.57%
+Vote Distribution: {27: 1, 20: 1, 0: 1, 48: 1, 85: 1, 32: 1}
+
+==================================================
+Question 70 Summary:
+True Answer: 525
+
+Vote Progression:
+Vote 1:
+  Answer: 0
+  FLOPs: 3,029,666,365,440
+  Time: 145.15s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 0
+  FLOPs: 3,029,666,365,440
+  Time: 145.34s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 2884
+  FLOPs: 3,029,666,365,440
+  Time: 145.38s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 329
+  FLOPs: 2,976,111,656,960
+  Time: 142.12s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 105000
+  FLOPs: 3,029,666,365,440
+  Time: 144.94s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 33
+  FLOPs: 3,029,666,365,440
+  Time: 145.91s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 18,124,443,484,160
+Total Time: 868.87s
+Final Question Accuracy: 28.17%
+Vote Distribution: {0: 2, 2884: 1, 329: 1, 105000: 1, 33: 1}
+
+==================================================
+Question 71 Summary:
+True Answer: 10
+
+Vote Progression:
+Vote 1:
+  Answer: 20
+  FLOPs: 1,239,408,967,680
+  Time: 45.66s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 20
+  FLOPs: 680,909,864,960
+  Time: 24.06s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 25
+  FLOPs: 1,147,600,896,000
+  Time: 41.73s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 10
+  FLOPs: 1,078,744,842,240
+  Time: 38.85s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 15
+  FLOPs: 1,927,969,505,280
+  Time: 73.92s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 10
+  FLOPs: 1,109,347,532,800
+  Time: 40.09s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 7,183,981,608,960
+Total Time: 264.35s
+Final Question Accuracy: 27.78%
+Vote Distribution: {20: 2, 25: 1, 10: 2, 15: 1}
+
+==================================================
+Question 72 Summary:
+True Answer: 410
+
+Vote Progression:
+Vote 1:
+  Answer: 110
+  FLOPs: 3,029,666,365,440
+  Time: 145.35s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 140
+  FLOPs: 3,029,666,365,440
+  Time: 146.37s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 2365
+  FLOPs: 1,132,299,550,720
+  Time: 42.43s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 410
+  FLOPs: 895,128,698,880
+  Time: 32.50s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 420
+  FLOPs: 3,029,666,365,440
+  Time: 144.85s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 210
+  FLOPs: 849,224,663,040
+  Time: 31.59s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 11,965,652,008,960
+Total Time: 543.13s
+Final Question Accuracy: 27.40%
+Vote Distribution: {110: 1, 140: 1, 2365: 1, 410: 1, 420: 1, 210: 1}
+
+==================================================
+Question 73 Summary:
+True Answer: 140
+
+Vote Progression:
+Vote 1:
+  Answer: 12
+  FLOPs: 3,029,666,365,440
+  Time: 136.97s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 9
+  FLOPs: 3,029,666,365,440
+  Time: 135.07s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 140
+  FLOPs: 1,101,696,860,160
+  Time: 38.75s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 30
+  FLOPs: 3,029,666,365,440
+  Time: 136.16s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 10
+  FLOPs: 3,006,714,347,520
+  Time: 134.74s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 15
+  FLOPs: 3,029,666,365,440
+  Time: 136.65s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,227,076,669,440
+Total Time: 718.39s
+Final Question Accuracy: 27.03%
+Vote Distribution: {12: 1, 9: 1, 140: 1, 30: 1, 10: 1, 15: 1}
+
+==================================================
+Question 74 Summary:
+True Answer: 720
+
+Vote Progression:
+Vote 1:
+  Answer: 720
+  FLOPs: 650,307,174,400
+  Time: 22.48s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 8
+  FLOPs: 2,846,050,222,080
+  Time: 119.45s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 540
+  FLOPs: 3,029,666,365,440
+  Time: 132.28s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 720
+  FLOPs: 1,338,867,712,000
+  Time: 48.93s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 720
+  FLOPs: 1,583,689,236,480
+  Time: 58.14s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 600
+  FLOPs: 734,464,573,440
+  Time: 25.69s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 10,183,045,283,840
+Total Time: 407.00s
+Final Question Accuracy: 28.00%
+Vote Distribution: {720: 3, 8: 1, 540: 1, 600: 1}
+
+==================================================
+Question 75 Summary:
+True Answer: 1050
+
+Vote Progression:
+Vote 1:
+  Answer: 125
+  FLOPs: 734,464,573,440
+  Time: 26.48s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 6250
+  FLOPs: 918,080,716,800
+  Time: 33.66s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 350
+  FLOPs: 2,371,708,518,400
+  Time: 95.97s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 100
+  FLOPs: 489,643,048,960
+  Time: 16.57s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 1050
+  FLOPs: 1,063,443,496,960
+  Time: 37.91s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 1050
+  FLOPs: 3,029,666,365,440
+  Time: 136.73s
+  Accuracy up to vote 6: 100.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 8,607,006,720,000
+Total Time: 347.36s
+Final Question Accuracy: 28.95%
+Vote Distribution: {125: 1, 6250: 1, 350: 1, 100: 1, 1050: 2}
+
+==================================================
+Question 76 Summary:
+True Answer: 8
+
+Vote Progression:
+Vote 1:
+  Answer: 2
+  FLOPs: 2,226,345,738,240
+  Time: 94.51s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 8
+  FLOPs: 1,973,873,541,120
+  Time: 81.15s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 8
+  FLOPs: 1,430,675,783,680
+  Time: 56.06s
+  Accuracy up to vote 3: 100.00%
+  >>> Majority answer changed at vote 3
+
+Vote 4:
+  Answer: 8
+  FLOPs: 2,999,063,674,880
+  Time: 144.20s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 125
+  FLOPs: 3,029,666,365,440
+  Time: 146.78s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 130
+  FLOPs: 2,647,132,733,440
+  Time: 121.03s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 14,306,757,836,800
+Total Time: 643.76s
+Final Question Accuracy: 29.87%
+Vote Distribution: {2: 1, 8: 3, 125: 1, 130: 1}
+
+==================================================
+Question 77 Summary:
+True Answer: 20
+
+Vote Progression:
+Vote 1:
+  Answer: 14
+  FLOPs: 1,071,094,169,600
+  Time: 39.95s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 30
+  FLOPs: 1,912,668,160,000
+  Time: 76.89s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 141.88s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 11
+  FLOPs: 1,790,257,397,760
+  Time: 69.97s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 11
+  FLOPs: 1,797,908,070,400
+  Time: 71.22s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 27
+  FLOPs: 1,752,004,034,560
+  Time: 68.50s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 11,353,598,197,760
+Total Time: 468.48s
+Final Question Accuracy: 29.49%
+Vote Distribution: {14: 1, 30: 1, 2: 1, 11: 2, 27: 1}
+
+==================================================
+Question 78 Summary:
+True Answer: 138
+
+Vote Progression:
+Vote 1:
+  Answer: 140
+  FLOPs: 1,101,696,860,160
+  Time: 41.42s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 140
+  FLOPs: 3,029,666,365,440
+  Time: 144.15s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 138
+  FLOPs: 3,029,666,365,440
+  Time: 142.22s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 139
+  FLOPs: 3,029,666,365,440
+  Time: 143.19s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 139
+  FLOPs: 1,598,990,581,760
+  Time: 61.56s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 138
+  FLOPs: 1,078,744,842,240
+  Time: 39.40s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,868,431,380,480
+Total Time: 571.99s
+Final Question Accuracy: 29.11%
+Vote Distribution: {140: 2, 138: 2, 139: 2}
+
+==================================================
+Question 79 Summary:
+True Answer: 175
+
+Vote Progression:
+Vote 1:
+  Answer: 175
+  FLOPs: 1,086,395,514,880
+  Time: 39.61s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 625
+  FLOPs: 1,614,291,927,040
+  Time: 61.91s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 100
+  FLOPs: 3,029,666,365,440
+  Time: 138.35s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 450
+  FLOPs: 3,029,666,365,440
+  Time: 139.86s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 229
+  FLOPs: 2,325,804,482,560
+  Time: 93.60s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 175
+  FLOPs: 3,029,666,365,440
+  Time: 139.27s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 14,115,491,020,800
+Total Time: 612.65s
+Final Question Accuracy: 30.00%
+Vote Distribution: {175: 2, 625: 1, 100: 1, 450: 1, 229: 1}
+
+==================================================
+Question 80 Summary:
+True Answer: 64
+
+Vote Progression:
+Vote 1:
+  Answer: None
+  FLOPs: 573,800,448,000
+  Time: 19.52s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 141.36s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 1
+  FLOPs: 2,999,063,674,880
+  Time: 139.38s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 80
+  FLOPs: 956,334,080,000
+  Time: 33.43s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 16
+  FLOPs: 2,983,762,329,600
+  Time: 136.60s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 80
+  FLOPs: 2,983,762,329,600
+  Time: 138.14s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,526,389,227,520
+Total Time: 608.47s
+Final Question Accuracy: 29.63%
+Vote Distribution: {None: 1, 1: 2, 80: 2, 16: 1}
+
+==================================================
+Question 81 Summary:
+True Answer: 5600
+
+Vote Progression:
+Vote 1:
+  Answer: 420
+  FLOPs: 3,029,666,365,440
+  Time: 149.09s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 2800
+  FLOPs: 1,905,017,487,360
+  Time: 77.88s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 5600
+  FLOPs: 2,325,804,482,560
+  Time: 100.45s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 11200
+  FLOPs: 3,029,666,365,440
+  Time: 148.57s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 13200
+  FLOPs: 1,208,806,277,120
+  Time: 45.97s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 11200
+  FLOPs: 1,300,614,348,800
+  Time: 49.81s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,799,575,326,720
+Total Time: 571.80s
+Final Question Accuracy: 29.27%
+Vote Distribution: {420: 1, 2800: 1, 5600: 1, 11200: 2, 13200: 1}
+
+==================================================
+Question 82 Summary:
+True Answer: 720
+
+Vote Progression:
+Vote 1:
+  Answer: 720
+  FLOPs: 2,195,743,047,680
+  Time: 89.13s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 960
+  FLOPs: 1,116,998,205,440
+  Time: 41.39s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 1200
+  FLOPs: 3,029,666,365,440
+  Time: 141.49s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 100
+  FLOPs: 3,029,666,365,440
+  Time: 142.20s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 720
+  FLOPs: 3,029,666,365,440
+  Time: 142.30s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 240
+  FLOPs: 2,241,647,083,520
+  Time: 92.69s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 14,643,387,432,960
+Total Time: 649.24s
+Final Question Accuracy: 30.12%
+Vote Distribution: {720: 2, 960: 1, 1200: 1, 100: 1, 240: 1}
+
+==================================================
+Question 83 Summary:
+True Answer: 312
+
+Vote Progression:
+Vote 1:
+  Answer: 15
+  FLOPs: 1,338,867,712,000
+  Time: 48.88s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 3
+  FLOPs: 2,999,063,674,880
+  Time: 133.74s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 137.37s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: None
+  FLOPs: 2,761,892,823,040
+  Time: 119.19s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 2080
+  FLOPs: 1,040,491,479,040
+  Time: 37.66s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 308
+  FLOPs: 3,029,666,365,440
+  Time: 136.01s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,199,648,419,840
+Total Time: 612.88s
+Final Question Accuracy: 29.76%
+Vote Distribution: {15: 1, 3: 1, 1: 1, None: 1, 2080: 1, 308: 1}
+
+==================================================
+Question 84 Summary:
+True Answer: 60
+
+Vote Progression:
+Vote 1:
+  Answer: 55
+  FLOPs: 2,455,865,917,440
+  Time: 102.02s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 60
+  FLOPs: 1,354,169,057,280
+  Time: 50.43s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 139.83s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 8
+  FLOPs: 803,320,627,200
+  Time: 28.88s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 60
+  FLOPs: 1,912,668,160,000
+  Time: 75.12s
+  Accuracy up to vote 5: 100.00%
+  >>> Majority answer changed at vote 5
+
+Vote 6:
+  Answer: 140
+  FLOPs: 2,991,413,002,240
+  Time: 135.14s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 12,547,103,129,600
+Total Time: 531.46s
+Final Question Accuracy: 30.59%
+Vote Distribution: {55: 1, 60: 2, 2: 1, 8: 1, 140: 1}
+
+==================================================
+Question 85 Summary:
+True Answer: 450
+
+Vote Progression:
+Vote 1:
+  Answer: 37
+  FLOPs: 673,259,192,320
+  Time: 23.88s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 100
+  FLOPs: 566,149,775,360
+  Time: 20.44s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 490
+  FLOPs: 1,009,888,788,480
+  Time: 36.80s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 32
+  FLOPs: 3,029,666,365,440
+  Time: 136.23s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 590
+  FLOPs: 2,073,332,285,440
+  Time: 82.48s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 77
+  FLOPs: 581,451,120,640
+  Time: 19.09s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 7,933,747,527,680
+Total Time: 318.95s
+Final Question Accuracy: 30.23%
+Vote Distribution: {37: 1, 100: 1, 490: 1, 32: 1, 590: 1, 77: 1}
+
+==================================================
+Question 86 Summary:
+True Answer: 10000
+
+Vote Progression:
+Vote 1:
+  Answer: 12
+  FLOPs: 3,029,666,365,440
+  Time: 140.21s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 4
+  FLOPs: 3,029,666,365,440
+  Time: 139.47s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 25000
+  FLOPs: 1,950,921,523,200
+  Time: 77.52s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 6250
+  FLOPs: 2,157,489,684,480
+  Time: 86.63s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 2000
+  FLOPs: 2,035,078,922,240
+  Time: 81.01s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 600000
+  FLOPs: 1,323,566,366,720
+  Time: 49.02s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,526,389,227,520
+Total Time: 573.89s
+Final Question Accuracy: 29.89%
+Vote Distribution: {12: 1, 4: 1, 25000: 1, 6250: 1, 2000: 1, 600000: 1}
+
+==================================================
+Question 87 Summary:
+True Answer: 43500
+
+Vote Progression:
+Vote 1:
+  Answer: 44000
+  FLOPs: 2,463,516,590,080
+  Time: 121.93s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 41500
+  FLOPs: 2,058,030,940,160
+  Time: 95.05s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 43500
+  FLOPs: 2,769,543,495,680
+  Time: 143.43s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 35500
+  FLOPs: 3,029,666,365,440
+  Time: 161.86s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 42
+  FLOPs: 3,029,666,365,440
+  Time: 162.49s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 43500
+  FLOPs: 2,662,434,078,720
+  Time: 135.52s
+  Accuracy up to vote 6: 100.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 16,012,857,835,520
+Total Time: 820.32s
+Final Question Accuracy: 30.68%
+Vote Distribution: {44000: 1, 41500: 1, 43500: 2, 35500: 1, 42: 1}
+
+==================================================
+Question 88 Summary:
+True Answer: 150
+
+Vote Progression:
+Vote 1:
+  Answer: 31
+  FLOPs: 2,976,111,656,960
+  Time: 140.56s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 33
+  FLOPs: 3,029,666,365,440
+  Time: 144.55s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 22
+  FLOPs: 3,029,666,365,440
+  Time: 143.69s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 33
+  FLOPs: 2,983,762,329,600
+  Time: 140.78s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 21
+  FLOPs: 3,029,666,365,440
+  Time: 144.31s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 150
+  FLOPs: 2,792,495,513,600
+  Time: 127.44s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 17,841,368,596,480
+Total Time: 841.37s
+Final Question Accuracy: 30.34%
+Vote Distribution: {31: 1, 33: 2, 22: 1, 21: 1, 150: 1}
+
+==================================================
+Question 89 Summary:
+True Answer: 9
+
+Vote Progression:
+Vote 1:
+  Answer: 10
+  FLOPs: 1,224,107,622,400
+  Time: 47.57s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 10
+  FLOPs: 3,029,666,365,440
+  Time: 151.79s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 2
+  FLOPs: 2,976,111,656,960
+  Time: 147.27s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 26
+  FLOPs: 2,387,009,863,680
+  Time: 107.74s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 9
+  FLOPs: 1,116,998,205,440
+  Time: 43.43s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 8
+  FLOPs: 1,736,702,689,280
+  Time: 71.11s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,470,596,403,200
+Total Time: 568.95s
+Final Question Accuracy: 30.00%
+Vote Distribution: {10: 2, 2: 1, 26: 1, 9: 1, 8: 1}
+
+==================================================
+Question 90 Summary:
+True Answer: 60
+
+Vote Progression:
+Vote 1:
+  Answer: 5
+  FLOPs: 2,088,633,630,720
+  Time: 82.93s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 71
+  FLOPs: 2,471,167,262,720
+  Time: 103.00s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 58
+  FLOPs: 2,754,242,150,400
+  Time: 121.67s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 11
+  FLOPs: 3,029,666,365,440
+  Time: 139.49s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 16
+  FLOPs: 1,377,121,075,200
+  Time: 51.52s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 70
+  FLOPs: 849,224,663,040
+  Time: 28.89s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,570,055,147,520
+Total Time: 527.52s
+Final Question Accuracy: 29.67%
+Vote Distribution: {5: 1, 71: 1, 58: 1, 11: 1, 16: 1, 70: 1}
+
+==================================================
+Question 91 Summary:
+True Answer: 24
+
+Vote Progression:
+Vote 1:
+  Answer: 23
+  FLOPs: 963,984,752,640
+  Time: 35.63s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 30
+  FLOPs: 2,409,961,881,600
+  Time: 103.77s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 35
+  FLOPs: 719,163,228,160
+  Time: 26.17s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 25
+  FLOPs: 1,086,395,514,880
+  Time: 40.57s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 60
+  FLOPs: 3,029,666,365,440
+  Time: 144.41s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 18
+  FLOPs: 1,553,086,545,920
+  Time: 60.39s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 9,762,258,288,640
+Total Time: 411.00s
+Final Question Accuracy: 29.35%
+Vote Distribution: {23: 1, 30: 1, 35: 1, 25: 1, 60: 1, 18: 1}
+
+==================================================
+Question 92 Summary:
+True Answer: 539
+
+Vote Progression:
+Vote 1:
+  Answer: 350
+  FLOPs: 3,029,666,365,440
+  Time: 142.27s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 3
+  FLOPs: 2,976,111,656,960
+  Time: 138.84s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 340
+  FLOPs: 1,736,702,689,280
+  Time: 68.21s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 141
+  FLOPs: 1,071,094,169,600
+  Time: 39.61s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 250
+  FLOPs: 1,185,854,259,200
+  Time: 44.27s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 539
+  FLOPs: 2,991,413,002,240
+  Time: 140.03s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,990,842,142,720
+Total Time: 573.26s
+Final Question Accuracy: 29.03%
+Vote Distribution: {350: 1, 3: 1, 340: 1, 141: 1, 250: 1, 539: 1}
+
+==================================================
+Question 93 Summary:
+True Answer: 18
+
+Vote Progression:
+Vote 1:
+  Answer: 10
+  FLOPs: 566,149,775,360
+  Time: 20.16s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 149.49s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 10
+  FLOPs: 1,981,524,213,760
+  Time: 82.68s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 6
+  FLOPs: 3,029,666,365,440
+  Time: 150.31s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 8
+  FLOPs: 2,914,906,275,840
+  Time: 142.32s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 2
+  FLOPs: 1,744,353,361,920
+  Time: 70.51s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,266,266,357,760
+Total Time: 615.51s
+Final Question Accuracy: 28.72%
+Vote Distribution: {10: 2, 1: 1, 6: 1, 8: 1, 2: 1}
+
+==================================================
+Question 94 Summary:
+True Answer: 14
+
+Vote Progression:
+Vote 1:
+  Answer: 12
+  FLOPs: 1,086,395,514,880
+  Time: 39.52s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 100
+  FLOPs: 2,983,762,329,600
+  Time: 134.32s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 80
+  FLOPs: 3,029,666,365,440
+  Time: 136.41s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 26
+  FLOPs: 3,029,666,365,440
+  Time: 135.56s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 14
+  FLOPs: 2,983,762,329,600
+  Time: 132.06s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 20
+  FLOPs: 2,601,228,697,600
+  Time: 109.03s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,714,481,602,560
+Total Time: 686.94s
+Final Question Accuracy: 28.42%
+Vote Distribution: {12: 1, 100: 1, 80: 1, 26: 1, 14: 1, 20: 1}
+
+==================================================
+Question 95 Summary:
+True Answer: 60
+
+Vote Progression:
+Vote 1:
+  Answer: 60
+  FLOPs: 1,208,806,277,120
+  Time: 43.81s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 60
+  FLOPs: 1,025,190,133,760
+  Time: 35.81s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 20
+  FLOPs: 3,029,666,365,440
+  Time: 135.27s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 134.78s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 60
+  FLOPs: 2,608,879,370,240
+  Time: 108.84s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 60
+  FLOPs: 765,067,264,000
+  Time: 26.08s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 11,667,275,776,000
+Total Time: 484.62s
+Final Question Accuracy: 29.17%
+Vote Distribution: {60: 4, 20: 1, 2: 1}
+
+==================================================
+Question 96 Summary:
+True Answer: 1080
+
+Vote Progression:
+Vote 1:
+  Answer: 552
+  FLOPs: 3,029,666,365,440
+  Time: 146.98s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1080
+  FLOPs: 2,647,132,733,440
+  Time: 121.08s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 1500
+  FLOPs: 3,029,666,365,440
+  Time: 147.03s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 147.29s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: None
+  FLOPs: 1,461,278,474,240
+  Time: 57.21s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 540
+  FLOPs: 1,407,723,765,760
+  Time: 55.27s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,605,134,069,760
+Total Time: 674.90s
+Final Question Accuracy: 28.87%
+Vote Distribution: {552: 1, 1080: 1, 1500: 1, None: 2, 540: 1}
+
+==================================================
+Question 97 Summary:
+True Answer: 291
+
+Vote Progression:
+Vote 1:
+  Answer: 12
+  FLOPs: 2,983,762,329,600
+  Time: 143.46s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 246
+  FLOPs: 3,029,666,365,440
+  Time: 146.41s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 8
+  FLOPs: 2,999,063,674,880
+  Time: 145.53s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 12
+  FLOPs: 1,683,147,980,800
+  Time: 67.27s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 72
+  FLOPs: 902,779,371,520
+  Time: 33.13s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 39
+  FLOPs: 2,226,345,738,240
+  Time: 94.02s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,824,765,460,480
+Total Time: 629.87s
+Final Question Accuracy: 28.57%
+Vote Distribution: {12: 2, 246: 1, 8: 1, 72: 1, 39: 1}
+
+==================================================
+Question 98 Summary:
+True Answer: 70
+
+Vote Progression:
+Vote 1:
+  Answer: 4
+  FLOPs: 3,029,666,365,440
+  Time: 139.02s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 2
+  FLOPs: 3,006,714,347,520
+  Time: 136.38s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 70
+  FLOPs: 1,116,998,205,440
+  Time: 40.19s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 5
+  FLOPs: 3,029,666,365,440
+  Time: 138.22s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 70
+  FLOPs: 3,029,666,365,440
+  Time: 138.26s
+  Accuracy up to vote 5: 100.00%
+  >>> Majority answer changed at vote 5
+
+Vote 6:
+  Answer: 5
+  FLOPs: 3,029,666,365,440
+  Time: 137.75s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 16,242,378,014,720
+Total Time: 729.85s
+Final Question Accuracy: 29.29%
+Vote Distribution: {4: 1, 2: 1, 70: 2, 5: 2}
+
+==================================================
+Question 99 Summary:
+True Answer: 63
+
+Vote Progression:
+Vote 1:
+  Answer: 81
+  FLOPs: 1,759,654,707,200
+  Time: 65.88s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 134.44s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 63
+  FLOPs: 3,029,666,365,440
+  Time: 133.81s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 63
+  FLOPs: 1,430,675,783,680
+  Time: 51.43s
+  Accuracy up to vote 4: 100.00%
+  >>> Majority answer changed at vote 4
+
+Vote 5:
+  Answer: 63
+  FLOPs: 2,976,111,656,960
+  Time: 128.79s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 63
+  FLOPs: 1,285,313,003,520
+  Time: 46.54s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 13,511,087,882,240
+Total Time: 560.92s
+Final Question Accuracy: 30.00%
+Vote Distribution: {81: 1, 1: 1, 63: 4}
+
+==================================================
+Question 100 Summary:
+True Answer: 26
+
+Vote Progression:
+Vote 1:
+  Answer: 26
+  FLOPs: 1,262,360,985,600
+  Time: 44.89s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 169
+  FLOPs: 3,029,666,365,440
+  Time: 131.64s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 26
+  FLOPs: 550,848,430,080
+  Time: 18.75s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 26
+  FLOPs: 1,752,004,034,560
+  Time: 64.25s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 26
+  FLOPs: 1,002,238,115,840
+  Time: 34.12s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 208
+  FLOPs: 2,991,413,002,240
+  Time: 128.47s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 10,588,530,933,760
+Total Time: 422.15s
+Final Question Accuracy: 30.69%
+Vote Distribution: {26: 4, 169: 1, 208: 1}
+
+==================================================
+Question 101 Summary:
+True Answer: 750
+
+Vote Progression:
+Vote 1:
+  Answer: 1125
+  FLOPs: 2,891,954,257,920
+  Time: 144.89s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 154.29s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 47
+  FLOPs: 2,149,839,011,840
+  Time: 95.82s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 375
+  FLOPs: 3,029,666,365,440
+  Time: 154.15s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 515
+  FLOPs: 3,014,365,020,160
+  Time: 152.95s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 150
+  FLOPs: 3,029,666,365,440
+  Time: 153.96s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 17,145,157,386,240
+Total Time: 856.10s
+Final Question Accuracy: 30.39%
+Vote Distribution: {1125: 1, 1: 1, 47: 1, 375: 1, 515: 1, 150: 1}
+
+==================================================
+Question 102 Summary:
+True Answer: 54
+
+Vote Progression:
+Vote 1:
+  Answer: 58
+  FLOPs: 436,088,340,480
+  Time: 14.31s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 42
+  FLOPs: 1,101,696,860,160
+  Time: 38.31s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 63
+  FLOPs: 1,086,395,514,880
+  Time: 38.25s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 3
+  FLOPs: 1,063,443,496,960
+  Time: 37.00s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 60
+  FLOPs: 3,029,666,365,440
+  Time: 134.25s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 31
+  FLOPs: 1,201,155,604,480
+  Time: 42.41s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 7,918,446,182,400
+Total Time: 304.55s
+Final Question Accuracy: 30.10%
+Vote Distribution: {58: 1, 42: 1, 63: 1, 3: 1, 60: 1, 31: 1}
+
+==================================================
+Question 103 Summary:
+True Answer: 96
+
+Vote Progression:
+Vote 1:
+  Answer: 111
+  FLOPs: 2,050,380,267,520
+  Time: 81.96s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 112
+  FLOPs: 3,029,666,365,440
+  Time: 141.36s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 76
+  FLOPs: 3,029,666,365,440
+  Time: 141.78s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 96
+  FLOPs: 2,700,687,441,920
+  Time: 120.33s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 20
+  FLOPs: 749,765,918,720
+  Time: 26.59s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 12
+  FLOPs: 3,029,666,365,440
+  Time: 142.97s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,589,832,724,480
+Total Time: 655.02s
+Final Question Accuracy: 29.81%
+Vote Distribution: {111: 1, 112: 1, 76: 1, 96: 1, 20: 1, 12: 1}
+
+==================================================
+Question 104 Summary:
+True Answer: 67
+
+Vote Progression:
+Vote 1:
+  Answer: 67
+  FLOPs: 1,889,716,142,080
+  Time: 71.18s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 69
+  FLOPs: 3,029,666,365,440
+  Time: 135.41s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 4
+  FLOPs: 2,272,249,774,080
+  Time: 89.10s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 8
+  FLOPs: 3,029,666,365,440
+  Time: 134.67s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 63
+  FLOPs: 1,905,017,487,360
+  Time: 73.42s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 4
+  FLOPs: 1,400,073,093,120
+  Time: 50.42s
+  Accuracy up to vote 6: 0.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 13,526,389,227,520
+Total Time: 554.24s
+Final Question Accuracy: 29.52%
+Vote Distribution: {67: 1, 69: 1, 4: 2, 8: 1, 63: 1}
+
+==================================================
+Question 105 Summary:
+True Answer: 32
+
+Vote Progression:
+Vote 1:
+  Answer: 72
+  FLOPs: 994,587,443,200
+  Time: 36.98s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 2411
+  FLOPs: 2,509,420,625,920
+  Time: 113.76s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 58
+  FLOPs: 1,537,785,200,640
+  Time: 60.52s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 32
+  FLOPs: 2,983,762,329,600
+  Time: 146.08s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 64
+  FLOPs: 2,058,030,940,160
+  Time: 86.38s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 26
+  FLOPs: 2,693,036,769,280
+  Time: 125.52s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,776,623,308,800
+Total Time: 569.29s
+Final Question Accuracy: 29.25%
+Vote Distribution: {72: 1, 2411: 1, 58: 1, 32: 1, 64: 1, 26: 1}
+
+==================================================
+Question 106 Summary:
+True Answer: 8
+
+Vote Progression:
+Vote 1:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 139.14s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 8
+  FLOPs: 1,973,873,541,120
+  Time: 78.02s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 8
+  FLOPs: 887,478,026,240
+  Time: 31.59s
+  Accuracy up to vote 3: 100.00%
+  >>> Majority answer changed at vote 3
+
+Vote 4:
+  Answer: 8
+  FLOPs: 3,029,666,365,440
+  Time: 139.91s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 8
+  FLOPs: 1,667,846,635,520
+  Time: 63.80s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 11
+  FLOPs: 3,029,666,365,440
+  Time: 140.31s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 13,618,197,299,200
+Total Time: 592.80s
+Final Question Accuracy: 29.91%
+Vote Distribution: {2: 1, 8: 4, 11: 1}
+
+==================================================
+Question 107 Summary:
+True Answer: 20
+
+Vote Progression:
+Vote 1:
+  Answer: 15
+  FLOPs: 1,882,065,469,440
+  Time: 71.03s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 16
+  FLOPs: 2,012,126,904,320
+  Time: 77.80s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 30
+  FLOPs: 3,029,666,365,440
+  Time: 135.55s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 60
+  FLOPs: 1,667,846,635,520
+  Time: 62.11s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 60
+  FLOPs: 3,029,666,365,440
+  Time: 135.17s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 240
+  FLOPs: 1,430,675,783,680
+  Time: 51.35s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 13,052,047,523,840
+Total Time: 533.03s
+Final Question Accuracy: 29.63%
+Vote Distribution: {15: 1, 16: 1, 30: 1, 60: 2, 240: 1}
+
+==================================================
+Question 108 Summary:
+True Answer: 76
+
+Vote Progression:
+Vote 1:
+  Answer: 4
+  FLOPs: 1,438,326,456,320
+  Time: 52.24s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 4
+  FLOPs: 1,239,408,967,680
+  Time: 44.71s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 96
+  FLOPs: 1,002,238,115,840
+  Time: 35.16s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 116
+  FLOPs: 1,683,147,980,800
+  Time: 64.22s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 24
+  FLOPs: 1,384,771,747,840
+  Time: 50.04s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 4
+  FLOPs: 1,170,552,913,920
+  Time: 41.70s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 7,918,446,182,400
+Total Time: 288.11s
+Final Question Accuracy: 29.36%
+Vote Distribution: {4: 3, 96: 1, 116: 1, 24: 1}
+
+==================================================
+Question 109 Summary:
+True Answer: 21
+
+Vote Progression:
+Vote 1:
+  Answer: 21
+  FLOPs: 2,287,551,119,360
+  Time: 94.55s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 9
+  FLOPs: 1,522,483,855,360
+  Time: 57.90s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 21
+  FLOPs: 2,501,769,953,280
+  Time: 106.31s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 10
+  FLOPs: 3,029,666,365,440
+  Time: 141.05s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 142.53s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 26
+  FLOPs: 3,029,666,365,440
+  Time: 142.47s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 15,400,804,024,320
+Total Time: 684.84s
+Final Question Accuracy: 30.00%
+Vote Distribution: {21: 2, 9: 1, 10: 1, None: 1, 26: 1}
+
+==================================================
+Question 110 Summary:
+True Answer: 600
+
+Vote Progression:
+Vote 1:
+  Answer: 1800
+  FLOPs: 1,897,366,814,720
+  Time: 72.13s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 80
+  FLOPs: 1,576,038,563,840
+  Time: 56.42s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 160
+  FLOPs: 1,071,094,169,600
+  Time: 36.85s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 600
+  FLOPs: 1,392,422,420,480
+  Time: 49.99s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 14
+  FLOPs: 3,029,666,365,440
+  Time: 133.83s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 600
+  FLOPs: 1,637,243,944,960
+  Time: 59.89s
+  Accuracy up to vote 6: 100.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 10,603,832,279,040
+Total Time: 409.14s
+Final Question Accuracy: 30.63%
+Vote Distribution: {1800: 1, 80: 1, 160: 1, 600: 2, 14: 1}
+
+==================================================
+Question 111 Summary:
+True Answer: 16
+
+Vote Progression:
+Vote 1:
+  Answer: 6
+  FLOPs: 2,593,578,024,960
+  Time: 113.37s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 6
+  FLOPs: 1,744,353,361,920
+  Time: 67.98s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 600
+  FLOPs: 2,991,413,002,240
+  Time: 138.86s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 48
+  FLOPs: 3,029,666,365,440
+  Time: 141.01s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 60
+  FLOPs: 3,029,666,365,440
+  Time: 141.36s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 30
+  FLOPs: 3,029,666,365,440
+  Time: 140.94s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,418,343,485,440
+Total Time: 743.55s
+Final Question Accuracy: 30.36%
+Vote Distribution: {6: 2, 600: 1, 48: 1, 60: 1, 30: 1}
+
+==================================================
+Question 112 Summary:
+True Answer: 4
+
+Vote Progression:
+Vote 1:
+  Answer: 15
+  FLOPs: 3,029,666,365,440
+  Time: 148.79s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 8954
+  FLOPs: 3,029,666,365,440
+  Time: 148.70s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 3
+  FLOPs: 3,029,666,365,440
+  Time: 148.95s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 0
+  FLOPs: 1,522,483,855,360
+  Time: 59.87s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 66
+  FLOPs: 2,019,777,576,960
+  Time: 83.43s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 148.61s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 15,660,926,894,080
+Total Time: 738.38s
+Final Question Accuracy: 30.09%
+Vote Distribution: {15: 1, 8954: 1, 3: 1, 0: 1, 66: 1, 2: 1}
+
+==================================================
+Question 113 Summary:
+True Answer: 104
+
+Vote Progression:
+Vote 1:
+  Answer: 68
+  FLOPs: 1,208,806,277,120
+  Time: 46.32s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 20
+  FLOPs: 3,029,666,365,440
+  Time: 148.73s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 205
+  FLOPs: 2,471,167,262,720
+  Time: 111.25s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 17
+  FLOPs: 1,407,723,765,760
+  Time: 55.06s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 49
+  FLOPs: 2,693,036,769,280
+  Time: 126.03s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 140
+  FLOPs: 1,927,969,505,280
+  Time: 79.12s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,738,369,945,600
+Total Time: 566.55s
+Final Question Accuracy: 29.82%
+Vote Distribution: {68: 1, 20: 1, 205: 1, 17: 1, 49: 1, 140: 1}
+
+==================================================
+Question 114 Summary:
+True Answer: 10
+
+Vote Progression:
+Vote 1:
+  Answer: 10
+  FLOPs: 3,006,714,347,520
+  Time: 153.32s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 9
+  FLOPs: 2,631,831,388,160
+  Time: 127.05s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 4
+  FLOPs: 1,009,888,788,480
+  Time: 39.12s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 22
+  FLOPs: 1,484,230,492,160
+  Time: 59.99s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 3
+  FLOPs: 1,507,182,510,080
+  Time: 61.78s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 4
+  FLOPs: 1,262,360,985,600
+  Time: 50.42s
+  Accuracy up to vote 6: 0.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 10,902,208,512,000
+Total Time: 491.73s
+Final Question Accuracy: 29.57%
+Vote Distribution: {10: 1, 9: 1, 4: 2, 22: 1, 3: 1}
+
+==================================================
+Question 115 Summary:
+True Answer: 75
+
+Vote Progression:
+Vote 1:
+  Answer: 0
+  FLOPs: 1,805,558,743,040
+  Time: 69.32s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 7
+  FLOPs: 3,029,666,365,440
+  Time: 137.10s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 1000
+  FLOPs: 3,029,666,365,440
+  Time: 137.65s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 30
+  FLOPs: 2,700,687,441,920
+  Time: 114.87s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 75
+  FLOPs: 1,438,326,456,320
+  Time: 52.84s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 75
+  FLOPs: 1,400,073,093,120
+  Time: 51.73s
+  Accuracy up to vote 6: 100.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 13,403,978,465,280
+Total Time: 563.54s
+Final Question Accuracy: 30.17%
+Vote Distribution: {0: 1, 7: 1, 1000: 1, 30: 1, 75: 2}
+
+==================================================
+Question 116 Summary:
+True Answer: 6
+
+Vote Progression:
+Vote 1:
+  Answer: 6
+  FLOPs: 1,032,840,806,400
+  Time: 35.58s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 6
+  FLOPs: 971,635,425,280
+  Time: 33.04s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 6
+  FLOPs: 1,124,648,878,080
+  Time: 39.64s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 4
+  FLOPs: 2,693,036,769,280
+  Time: 113.24s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 6
+  FLOPs: 833,923,317,760
+  Time: 28.34s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 135.49s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 9,685,751,562,240
+Total Time: 385.37s
+Final Question Accuracy: 30.77%
+Vote Distribution: {6: 4, 4: 1, None: 1}
+
+==================================================
+Question 117 Summary:
+True Answer: 20000
+
+Vote Progression:
+Vote 1:
+  Answer: 40000
+  FLOPs: 1,652,545,290,240
+  Time: 61.46s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 8000
+  FLOPs: 849,224,663,040
+  Time: 28.86s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 20000
+  FLOPs: 1,400,073,093,120
+  Time: 50.75s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 20000
+  FLOPs: 1,400,073,093,120
+  Time: 51.01s
+  Accuracy up to vote 4: 100.00%
+  >>> Majority answer changed at vote 4
+
+Vote 5:
+  Answer: 20000
+  FLOPs: 1,155,251,568,640
+  Time: 40.86s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 20
+  FLOPs: 1,178,203,586,560
+  Time: 41.26s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 7,635,371,294,720
+Total Time: 274.23s
+Final Question Accuracy: 31.36%
+Vote Distribution: {40000: 1, 8000: 1, 20000: 3, 20: 1}
+
+==================================================
+Question 118 Summary:
+True Answer: 800
+
+Vote Progression:
+Vote 1:
+  Answer: 11800
+  FLOPs: 3,029,666,365,440
+  Time: 136.68s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 400
+  FLOPs: 3,029,666,365,440
+  Time: 137.19s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 25
+  FLOPs: 3,029,666,365,440
+  Time: 136.22s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 200
+  FLOPs: 2,723,639,459,840
+  Time: 115.90s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 118
+  FLOPs: 1,843,812,106,240
+  Time: 69.31s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 130
+  FLOPs: 2,991,413,002,240
+  Time: 133.62s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 16,647,863,664,640
+Total Time: 728.95s
+Final Question Accuracy: 31.09%
+Vote Distribution: {11800: 1, 400: 1, 25: 1, 200: 1, 118: 1, 130: 1}
+
+==================================================
+Question 119 Summary:
+True Answer: 45
+
+Vote Progression:
+Vote 1:
+  Answer: 155
+  FLOPs: 2,761,892,823,040
+  Time: 128.39s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 45
+  FLOPs: 1,927,969,505,280
+  Time: 78.08s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 45
+  FLOPs: 2,608,879,370,240
+  Time: 118.29s
+  Accuracy up to vote 3: 100.00%
+  >>> Majority answer changed at vote 3
+
+Vote 4:
+  Answer: 0
+  FLOPs: 3,029,666,365,440
+  Time: 145.84s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 320
+  FLOPs: 2,616,530,042,880
+  Time: 118.19s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 45
+  FLOPs: 1,790,257,397,760
+  Time: 72.08s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 14,735,195,504,640
+Total Time: 660.91s
+Final Question Accuracy: 31.67%
+Vote Distribution: {155: 1, 45: 3, 0: 1, 320: 1}
+
+==================================================
+Question 120 Summary:
+True Answer: 288
+
+Vote Progression:
+Vote 1:
+  Answer: 288
+  FLOPs: 765,067,264,000
+  Time: 26.89s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 12
+  FLOPs: 2,241,647,083,520
+  Time: 91.15s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 240
+  FLOPs: 1,820,860,088,320
+  Time: 70.80s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 288
+  FLOPs: 1,453,627,801,600
+  Time: 54.04s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 276
+  FLOPs: 879,827,353,600
+  Time: 30.95s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 7
+  FLOPs: 3,029,666,365,440
+  Time: 140.20s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 10,190,695,956,480
+Total Time: 414.07s
+Final Question Accuracy: 32.23%
+Vote Distribution: {288: 2, 12: 1, 240: 1, 276: 1, 7: 1}
+
+==================================================
+Question 121 Summary:
+True Answer: 40
+
+Vote Progression:
+Vote 1:
+  Answer: 40
+  FLOPs: 2,792,495,513,600
+  Time: 135.64s
+  Accuracy up to vote 1: 100.00%
+
+Vote 2:
+  Answer: 40
+  FLOPs: 1,621,942,599,680
+  Time: 65.84s
+  Accuracy up to vote 2: 100.00%
+
+Vote 3:
+  Answer: 40
+  FLOPs: 1,782,606,725,120
+  Time: 73.21s
+  Accuracy up to vote 3: 100.00%
+
+Vote 4:
+  Answer: 480
+  FLOPs: 3,029,666,365,440
+  Time: 151.72s
+  Accuracy up to vote 4: 100.00%
+
+Vote 5:
+  Answer: 40
+  FLOPs: 1,530,134,528,000
+  Time: 61.72s
+  Accuracy up to vote 5: 100.00%
+
+Vote 6:
+  Answer: 120
+  FLOPs: 627,355,156,480
+  Time: 22.97s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 11,384,200,888,320
+Total Time: 511.13s
+Final Question Accuracy: 32.79%
+Vote Distribution: {40: 4, 480: 1, 120: 1}
+
+==================================================
+Question 122 Summary:
+True Answer: 665
+
+Vote Progression:
+Vote 1:
+  Answer: 531
+  FLOPs: 1,300,614,348,800
+  Time: 47.91s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 665
+  FLOPs: 1,101,696,860,160
+  Time: 39.24s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 531
+  FLOPs: 2,295,201,792,000
+  Time: 92.47s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 665
+  FLOPs: 558,499,102,720
+  Time: 18.61s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 665
+  FLOPs: 680,909,864,960
+  Time: 22.83s
+  Accuracy up to vote 5: 100.00%
+  >>> Majority answer changed at vote 5
+
+Vote 6:
+  Answer: 531
+  FLOPs: 1,514,833,182,720
+  Time: 56.05s
+  Accuracy up to vote 6: 0.00%
+  >>> Majority answer changed at vote 6
+
+
+Question Totals:
+Total FLOPs: 7,451,755,151,360
+Total Time: 277.13s
+Final Question Accuracy: 32.52%
+Vote Distribution: {531: 3, 665: 3}
+
+==================================================
+Question 123 Summary:
+True Answer: 200
+
+Vote Progression:
+Vote 1:
+  Answer: 129
+  FLOPs: 2,226,345,738,240
+  Time: 94.33s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 92
+  FLOPs: 2,264,599,101,440
+  Time: 96.53s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 60
+  FLOPs: 3,006,714,347,520
+  Time: 145.69s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 40
+  FLOPs: 1,583,689,236,480
+  Time: 62.55s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 168
+  FLOPs: 2,203,393,720,320
+  Time: 93.24s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 52
+  FLOPs: 3,029,666,365,440
+  Time: 147.26s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,314,408,509,440
+Total Time: 639.63s
+Final Question Accuracy: 32.26%
+Vote Distribution: {129: 1, 92: 1, 60: 1, 40: 1, 168: 1, 52: 1}
+
+==================================================
+Question 124 Summary:
+True Answer: 20
+
+Vote Progression:
+Vote 1:
+  Answer: 1
+  FLOPs: 3,029,666,365,440
+  Time: 134.60s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 12
+  FLOPs: 2,547,673,989,120
+  Time: 102.14s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 20
+  FLOPs: 3,029,666,365,440
+  Time: 134.39s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: None
+  FLOPs: 3,029,666,365,440
+  Time: 133.96s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 20
+  FLOPs: 1,323,566,366,720
+  Time: 46.43s
+  Accuracy up to vote 5: 100.00%
+  >>> Majority answer changed at vote 5
+
+Vote 6:
+  Answer: 25
+  FLOPs: 2,318,153,809,920
+  Time: 91.25s
+  Accuracy up to vote 6: 100.00%
+
+
+Question Totals:
+Total FLOPs: 15,278,393,262,080
+Total Time: 642.81s
+Final Question Accuracy: 32.80%
+Vote Distribution: {1: 1, 12: 1, 20: 2, None: 1, 25: 1}
+
+==================================================
+Question 125 Summary:
+True Answer: 20
+
+Vote Progression:
+Vote 1:
+  Answer: 10
+  FLOPs: 856,875,335,680
+  Time: 29.78s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 10
+  FLOPs: 1,208,806,277,120
+  Time: 43.51s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 10
+  FLOPs: 2,478,817,935,360
+  Time: 103.52s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 50
+  FLOPs: 3,029,666,365,440
+  Time: 139.51s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 20
+  FLOPs: 803,320,627,200
+  Time: 27.32s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 40
+  FLOPs: 1,598,990,581,760
+  Time: 59.68s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 9,976,477,122,560
+Total Time: 403.36s
+Final Question Accuracy: 32.54%
+Vote Distribution: {10: 3, 50: 1, 20: 1, 40: 1}
+
+==================================================
+Question 126 Summary:
+True Answer: 24
+
+Vote Progression:
+Vote 1:
+  Answer: 16
+  FLOPs: 2,983,762,329,600
+  Time: 132.01s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 32
+  FLOPs: 3,029,666,365,440
+  Time: 135.45s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 20
+  FLOPs: 1,583,689,236,480
+  Time: 58.07s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 24
+  FLOPs: 1,185,854,259,200
+  Time: 41.25s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 48
+  FLOPs: 941,032,734,720
+  Time: 32.31s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 8
+  FLOPs: 3,029,666,365,440
+  Time: 135.01s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 12,753,671,290,880
+Total Time: 534.14s
+Final Question Accuracy: 32.28%
+Vote Distribution: {16: 1, 32: 1, 20: 1, 24: 1, 48: 1, 8: 1}
+
+==================================================
+Question 127 Summary:
+True Answer: 2
+
+Vote Progression:
+Vote 1:
+  Answer: 9
+  FLOPs: 3,029,666,365,440
+  Time: 162.75s
+  Accuracy up to vote 1: 0.00%
+
+Vote 2:
+  Answer: 7
+  FLOPs: 2,157,489,684,480
+  Time: 101.94s
+  Accuracy up to vote 2: 0.00%
+
+Vote 3:
+  Answer: 1
+  FLOPs: 1,247,059,640,320
+  Time: 51.51s
+  Accuracy up to vote 3: 0.00%
+
+Vote 4:
+  Answer: 2
+  FLOPs: 3,029,666,365,440
+  Time: 162.54s
+  Accuracy up to vote 4: 0.00%
+
+Vote 5:
+  Answer: 13
+  FLOPs: 3,006,714,347,520
+  Time: 161.12s
+  Accuracy up to vote 5: 0.00%
+
+Vote 6:
+  Answer: 25
+  FLOPs: 1,606,641,254,400
+  Time: 68.25s
+  Accuracy up to vote 6: 0.00%
+
+
+Question Totals:
+Total FLOPs: 14,077,237,657,600
+Total Time: 708.15s
+Final Question Accuracy: 32.03%
+Vote Distribution: {9: 1, 7: 1, 1: 1, 2: 1, 13: 1, 25: 1}
